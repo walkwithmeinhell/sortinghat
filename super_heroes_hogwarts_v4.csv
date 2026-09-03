@@ -1,0 +1,735 @@
+ID,Name,Gender,Race,Height,Publisher,Alignment,Weight,Manipulative,Resourceful,Dismissive,Intelligent,Trusting,Loyal,Stubborn,Brave,MagicalBackground,HouseID,House,STR,DEX,CON,INT,WIS,CHA,Level,HP
+A001,A-Bomb,Male,Human,203,Marvel Comics,good,441,10,10,7,6,7,7,7,9,Pure-blood,1,Slytherin,18,11,17,12,13,11,1,7
+A002,Abe Sapien,Male,Icthyo Sapien,191,Dark Horse Comics,good,65,7,7,6,8,6,7,6,9,Pure-blood,1,Slytherin,16,17,10,13,15,11,8,72
+A004,Abomination,Male,Human / Radiation,203,Marvel Comics,bad,441,6,8,1,6,3,3,5,2,Pure-blood,1,Slytherin,13,14,13,10,18,15,15,135
+A009,Agent 13,Female,NA,173,Marvel Comics,good,61,7,7,1,9,7,4,6,6,Pure-blood,1,Slytherin,15,18,16,16,17,10,14,140
+A015,Alex Mercer,Male,Human,NA,Wildstorm,bad,NA,10,6,8,3,4,4,1,8,Muggle-born,1,Slytherin,14,17,13,12,10,11,9,72
+A016,Alex Woolsly,Male,NA,NA,NBC - Heroes,good,NA,8,10,5,5,6,7,7,6,Half-blood,1,Slytherin,14,14,11,13,12,12,1,8
+A024,Angel,Male,Vampire,NA,Dark Horse Comics,good,NA,8,6,8,7,4,1,5,2,Pure-blood,1,Slytherin,15,17,15,18,13,18,11,88
+A025,Angel Dust,Female,Mutant,165,Marvel Comics,good,57,9,8,9,4,1,6,5,4,Half-blood,1,Slytherin,8,17,12,15,17,18,1,8
+A028,Animal Man,Male,Human,183,DC Comics,good,83,7,6,6,5,8,3,3,2,Pure-blood,1,Slytherin,10,17,15,18,13,14,8,56
+A032,Anti-Monitor,Male,God / Eternal,61,DC Comics,bad,NA,7,7,7,1,9,1,6,5,Half-blood,1,Slytherin,8,10,11,16,12,11,7,63
+A033,Anti-Spawn,Male,NA,NA,Image Comics,bad,NA,6,7,5,6,9,8,6,3,Pure-blood,1,Slytherin,9,10,13,15,13,17,7,49
+A036,Aquababy,Male,NA,NA,DC Comics,good,NA,6,6,6,2,3,6,7,5,Pure-blood,1,Slytherin,13,14,12,17,12,11,3,30
+A039,Arachne,Female,Human,175,Marvel Comics,good,63,9,7,9,8,6,3,2,5,Half-blood,1,Slytherin,10,14,15,17,12,16,12,84
+A040,Archangel,Male,Mutant,183,Marvel Comics,good,68,7,6,3,9,4,7,2,8,Pure-blood,1,Slytherin,16,14,14,13,10,12,4,36
+A041,Arclight,Female,NA,173,Marvel Comics,bad,57,7,8,1,7,7,7,3,5,Half-blood,1,Slytherin,11,16,18,14,15,14,14,140
+A044,Ariel,Female,NA,165,Marvel Comics,good,59,6,6,6,6,8,8,1,7,Pure-blood,1,Slytherin,11,13,10,13,10,10,14,140
+A051,Atom,Male,NA,NA,DC Comics,good,NA,6,6,6,3,6,7,6,2,Pure-blood,1,Slytherin,9,11,15,12,14,13,12,72
+A060,Bane,Male,Human,203,DC Comics,bad,180,9,6,8,3,3,2,5,7,Half-blood,1,Slytherin,11,13,12,16,15,14,3,21
+A061,Banshee,Male,Human,183,Marvel Comics,good,77,9,9,6,2,3,5,5,7,Pure-blood,1,Slytherin,9,12,11,15,18,13,9,54
+A062,Bantam,Male,NA,165,Marvel Comics,good,54,9,8,3,5,6,7,2,8,Pure-blood,1,Slytherin,18,14,10,16,14,14,14,112
+A063,Batgirl,Female,NA,NA,DC Comics,good,NA,9,9,3,3,6,2,2,7,Pure-blood,1,Slytherin,18,11,10,12,18,10,10,70
+A073,Batwoman V,Female,Human,178,DC Comics,good,NA,9,7,5,4,8,6,3,7,Half-blood,1,Slytherin,10,13,16,16,14,11,5,45
+A081,Big Barda,Female,New God,188,DC Comics,bad,135,7,7,7,4,2,4,5,2,Muggle-born,1,Slytherin,14,17,16,18,18,12,8,80
+A083,Big Man,Male,NA,165,Marvel Comics,bad,71,7,9,2,3,5,6,4,7,Half-blood,1,Slytherin,8,18,13,10,10,17,3,21
+A085,Billy Kincaid,Male,NA,NA,Image Comics,bad,NA,9,9,8,1,4,7,4,2,Muggle-born,1,Slytherin,16,18,13,18,18,17,10,60
+A088,Bird-Brain,NA,NA,NA,Marvel Comics,good,NA,10,8,8,8,3,5,5,7,Pure-blood,1,Slytherin,9,17,11,12,12,16,6,54
+A092,Bishop,Male,Mutant,198,Marvel Comics,good,124,8,8,4,8,3,2,2,5,Pure-blood,1,Slytherin,12,12,18,12,12,17,4,24
+A098,Black Canary,Female,Metahuman,170,DC Comics,good,59,9,6,3,6,4,9,6,5,Pure-blood,1,Slytherin,16,17,17,12,17,14,14,98
+A102,Black Knight III,Male,Human,183,Marvel Comics,good,86,9,9,7,2,4,4,6,3,Pure-blood,1,Slytherin,10,14,17,14,13,11,11,88
+A113,Blaquesmith,NA,NA,NA,Marvel Comics,good,NA,7,10,2,7,2,5,7,6,Muggle-born,1,Slytherin,12,15,17,14,17,10,7,70
+A117,Blizzard,Male,NA,NA,Marvel Comics,bad,NA,9,8,5,7,9,7,5,2,Pure-blood,1,Slytherin,17,14,12,14,18,14,4,36
+A118,Blizzard II,Male,NA,175,Marvel Comics,bad,77,9,8,8,3,7,3,5,3,Half-blood,1,Slytherin,9,14,10,13,16,18,10,90
+A121,Bloodhawk,Male,Mutant,NA,Marvel Comics,good,NA,9,10,4,7,1,2,6,8,Pure-blood,1,Slytherin,10,13,18,14,17,11,8,72
+A122,Bloodwraith,Male,NA,30.5,Marvel Comics,bad,NA,7,9,6,7,2,4,3,9,Pure-blood,1,Slytherin,15,17,18,13,12,18,9,81
+A124,Blue Beetle,Male,NA,NA,DC Comics,good,NA,9,8,7,5,6,6,6,3,Pure-blood,1,Slytherin,13,16,14,10,16,18,4,36
+A125,Blue Beetle II,Male,NA,183,DC Comics,good,86,6,8,5,8,2,5,8,4,Half-blood,1,Slytherin,13,17,11,14,16,18,13,130
+A130,Boom-Boom,Female,Mutant,165,Marvel Comics,good,55,9,8,8,8,4,3,5,2,Pure-blood,1,Slytherin,8,14,15,17,16,11,11,77
+A131,Boomer,Female,NA,NA,Marvel Comics,good,NA,6,7,6,4,6,4,4,5,Pure-blood,1,Slytherin,10,13,12,13,18,13,14,140
+A135,Box IV,NA,NA,NA,Marvel Comics,good,NA,9,9,4,3,7,4,5,6,Half-blood,1,Slytherin,9,10,15,18,13,18,3,18
+A139,Brundlefly,Male,Mutant,193,,NA,NA,10,7,9,7,4,6,7,6,Muggle-born,1,Slytherin,17,10,12,12,14,12,7,56
+A145,Cable,Male,Mutant,203,Marvel Comics,good,158,7,9,7,1,3,4,2,3,Pure-blood,1,Slytherin,8,18,17,10,13,15,15,150
+A150,Captain Atom,Male,Human / Radiation,193,DC Comics,good,90,7,10,8,4,2,9,4,6,Pure-blood,1,Slytherin,15,18,17,16,11,13,5,50
+A152,Captain Cold,Male,Human,NA,DC Comics,neutral,NA,9,8,9,4,7,7,6,5,Pure-blood,1,Slytherin,9,17,12,16,16,14,11,77
+A153,Captain Epic,Male,NA,188,Team Epic TV,good,NA,6,10,5,3,2,2,5,6,Half-blood,1,Slytherin,18,12,15,18,17,17,11,99
+A155,Captain Mar-vell,Male,NA,188,Marvel Comics,good,108,8,10,4,8,9,6,4,4,Pure-blood,1,Slytherin,8,16,15,14,11,16,5,35
+A160,Captain Planet,Male,God / Eternal,NA,Marvel Comics,good,NA,6,7,7,7,6,7,8,4,Pure-blood,1,Slytherin,15,14,10,16,13,18,4,32
+A163,Cat,Female,NA,173,Marvel Comics,good,61,6,9,8,3,6,7,6,6,Muggle-born,1,Slytherin,14,11,13,12,11,11,8,72
+A165,Catwoman,Female,Human,175,DC Comics,good,61,9,6,5,5,7,8,7,2,Pure-blood,1,Slytherin,9,15,18,11,12,18,4,36
+A170,Chameleon,Male,NA,NA,DC Comics,bad,NA,9,7,3,4,2,5,6,5,Pure-blood,1,Slytherin,12,16,12,14,11,10,11,110
+A174,Cheetah III,Female,Human,175,DC Comics,bad,54,6,7,3,3,7,5,3,2,Pure-blood,1,Slytherin,15,14,11,18,18,11,7,56
+A175,Chromos,Male,NA,185,Team Epic TV,bad,86,6,9,8,6,7,8,4,7,Pure-blood,1,Slytherin,18,18,18,13,17,18,3,30
+A176,Chuck Norris,Male,NA,178,,good,NA,10,10,3,9,4,5,9,4,Muggle-born,1,Slytherin,16,10,13,11,18,17,6,60
+A183,Colin Wagner,Male,NA,NA,HarperCollins,good,NA,7,7,7,3,2,3,3,3,Half-blood,1,Slytherin,17,15,11,13,14,12,12,96
+A191,Crystal,Female,Inhuman,168,Marvel Comics,good,50,9,8,6,2,4,1,5,4,Half-blood,1,Slytherin,18,10,18,11,12,18,15,135
+A193,Cy-Gor,Male,NA,NA,Image Comics,bad,NA,8,7,7,6,5,4,6,3,Pure-blood,1,Slytherin,17,12,10,17,12,10,14,140
+A199,Danny Cooper,Male,NA,NA,HarperCollins,good,NA,8,7,2,8,2,4,4,8,Half-blood,1,Slytherin,16,10,17,14,11,11,13,130
+A200,Daphne Powell,Female,NA,NA,ABC Studios,good,NA,9,9,1,3,6,7,9,9,Half-blood,1,Slytherin,16,15,13,16,15,18,11,99
+A203,Darkman,Male,NA,NA,Universal Studios,good,NA,8,8,5,6,7,2,1,4,Half-blood,1,Slytherin,17,14,17,13,12,13,4,24
+A206,Darkstar,Female,Mutant,168,Marvel Comics,good,56,8,7,5,6,7,2,8,3,Muggle-born,1,Slytherin,14,12,16,11,15,16,9,90
+A209,Dash,Male,Human,122,Dark Horse Comics,good,27,8,8,5,7,9,5,5,7,Pure-blood,1,Slytherin,15,15,13,16,10,11,13,117
+A213,Deadpool,Male,Mutant,188,Marvel Comics,neutral,95,7,8,7,1,7,6,1,9,Pure-blood,1,Slytherin,18,11,18,18,12,18,11,88
+A216,Deathstroke,Male,Human,193,DC Comics,neutral,101,10,8,2,3,5,5,8,6,Half-blood,1,Slytherin,14,17,14,17,17,14,7,42
+A219,Diamondback,Male,Human,193,Marvel Comics,bad,90,8,8,5,1,3,5,8,6,Pure-blood,1,Slytherin,12,13,10,15,18,12,14,140
+A228,Donatello,Male,Mutant,NA,IDW Publishing,good,NA,8,8,6,7,4,8,3,3,Half-blood,1,Slytherin,14,10,10,13,12,11,9,54
+A229,Donna Troy,Female,Amazon,175,DC Comics,good,63,9,10,5,6,6,7,4,9,Pure-blood,1,Slytherin,12,17,11,18,17,14,1,8
+A238,Elektra,Female,Human,175,Marvel Comics,good,59,7,9,6,8,2,2,5,6,Pure-blood,1,Slytherin,12,11,12,11,18,18,9,54
+A239,Elle Bishop,Female,NA,NA,NBC - Heroes,bad,NA,9,6,5,6,4,6,5,8,Pure-blood,1,Slytherin,16,11,12,12,15,17,13,104
+A247,Evil Deadpool,Male,Mutant,188,Marvel Comics,bad,95,9,6,4,5,4,7,6,8,Pure-blood,1,Slytherin,10,17,15,13,12,18,13,91
+A248,Evilhawk,Male,Alien,191,Marvel Comics,bad,106,8,7,2,5,6,7,5,6,Muggle-born,1,Slytherin,14,14,12,15,11,14,3,24
+A253,Faora,Female,Kryptonian,NA,DC Comics,bad,NA,7,10,8,4,9,4,9,7,Muggle-born,1,Slytherin,9,15,11,18,13,11,1,10
+A256,Fin Fang Foom,Male,Kakarantharaian,975,Marvel Comics,good,18,9,7,1,9,4,8,5,8,Pure-blood,1,Slytherin,14,17,16,12,12,13,8,80
+A258,Firelord,NA,NA,193,Marvel Comics,good,99,6,10,6,4,2,5,6,4,Half-blood,1,Slytherin,12,18,12,17,14,15,12,72
+A259,Firestar,Female,Mutant,173,Marvel Comics,good,56,7,9,5,7,5,7,4,2,Half-blood,1,Slytherin,10,13,15,17,11,15,1,6
+A264,Flash Gordon,Male,NA,NA,,good,NA,7,9,7,4,8,5,7,7,Muggle-born,1,Slytherin,12,17,12,10,14,10,8,48
+A265,Flash II,Male,Human,183,DC Comics,good,88,8,7,7,9,3,7,8,1,Half-blood,1,Slytherin,13,11,14,10,12,11,13,91
+A270,Franklin Storm,NA,NA,188,Marvel Comics,good,92,8,9,3,5,3,3,6,1,Muggle-born,1,Slytherin,18,13,18,12,17,14,1,8
+A275,Gamora,Female,Zen-Whoberian,183,Marvel Comics,good,77,8,9,5,6,3,7,2,8,Pure-blood,1,Slytherin,12,16,10,16,18,12,3,18
+A287,Godzilla,NA,Kaiju,108,,bad,,9,8,5,4,6,3,6,5,Muggle-born,1,Slytherin,8,18,16,16,17,17,1,7
+A294,Gorilla Grodd,Male,Gorilla,198,DC Comics,bad,270,10,7,7,2,5,8,5,2,Muggle-born,1,Slytherin,8,18,15,15,16,16,15,120
+A295,Granny Goodness,Female,NA,178,DC Comics,bad,115,10,10,2,9,7,3,5,2,Muggle-born,1,Slytherin,14,17,13,17,10,18,13,130
+A296,Gravity,Male,Human,178,Marvel Comics,good,79,7,8,3,2,3,6,2,3,Pure-blood,1,Slytherin,15,14,10,18,14,11,12,84
+A299,Green Goblin,Male,Human,180,Marvel Comics,bad,83,9,7,4,8,3,7,7,4,Pure-blood,1,Slytherin,8,18,18,15,17,13,15,90
+A302,Green Goblin IV,Male,NA,178,Marvel Comics,good,79,8,8,1,8,5,7,4,5,Pure-blood,1,Slytherin,9,11,10,13,11,17,12,120
+A303,Groot,Male,Flora Colossus,701,Marvel Comics,good,4,6,8,7,6,6,2,3,5,Pure-blood,1,Slytherin,11,15,17,11,14,14,14,98
+A304,Guardian,Male,Human,NA,Marvel Comics,good,NA,7,10,6,3,9,6,6,1,Muggle-born,1,Slytherin,11,12,12,18,15,15,12,96
+A308,Hancock,Male,Human,188,Sony Pictures,good,NA,8,9,7,3,5,3,7,7,Pure-blood,1,Slytherin,12,15,17,13,18,16,1,7
+A313,Hawkeye,Male,Human,191,Marvel Comics,good,104,10,8,3,7,7,5,7,7,Pure-blood,1,Slytherin,10,10,16,16,11,17,1,10
+A316,Hawkman,Male,NA,185,DC Comics,good,88,6,7,6,4,3,3,8,4,Half-blood,1,Slytherin,11,17,17,16,11,15,5,50
+A319,Hawkwoman III,Female,NA,170,DC Comics,good,65,7,10,1,4,8,8,8,7,Pure-blood,1,Slytherin,18,11,18,12,10,11,6,36
+A324,Hellstorm,Male,NA,185,Marvel Comics,good,81,9,10,5,5,2,2,8,8,Pure-blood,1,Slytherin,8,10,16,15,13,16,8,48
+A331,Howard the Duck,Male,NA,79,Marvel Comics,good,18,7,7,3,6,4,1,6,9,Half-blood,1,Slytherin,12,14,12,11,13,12,15,90
+A332,Hulk,Male,Human / Radiation,244,Marvel Comics,good,630,7,8,1,6,4,7,6,8,Pure-blood,1,Slytherin,18,12,14,18,11,14,14,140
+A335,Husk,Female,Mutant,170,Marvel Comics,good,58,10,9,7,3,8,7,1,8,Pure-blood,1,Slytherin,12,13,11,10,15,18,8,48
+A339,Iceman,Male,Mutant,173,Marvel Comics,good,65,7,9,6,6,5,7,6,3,Half-blood,1,Slytherin,18,18,10,11,14,10,11,99
+A340,Impulse,Male,Human,170,DC Comics,good,65,8,6,4,8,8,4,6,1,Pure-blood,1,Slytherin,14,14,12,13,16,13,2,20
+A341,Indiana Jones,Male,Human,183,George Lucas,good,79,6,9,3,3,3,5,7,3,Pure-blood,1,Slytherin,14,10,13,14,11,17,8,56
+A350,Jack of Hearts,Male,Human,155,Marvel Comics,good,79,10,9,9,3,5,3,6,6,Pure-blood,1,Slytherin,16,14,13,16,15,16,4,28
+A351,Jack-Jack,Male,Human,71,Dark Horse Comics,good,14,7,8,6,3,4,7,4,2,Pure-blood,1,Slytherin,13,18,16,13,16,10,2,12
+A352,James Bond,Male,Human,183,Titan Books,good,NA,8,10,3,3,7,7,8,3,Pure-blood,1,Slytherin,13,14,12,13,16,17,13,130
+A357,Jean-Luc Picard,Male,Human,NA,Star Trek,good,NA,7,8,2,7,4,7,7,6,Pure-blood,1,Slytherin,16,15,16,18,10,14,2,18
+A358,Jennifer Kale,Female,NA,168,Marvel Comics,good,55,7,8,8,5,3,9,6,7,Half-blood,1,Slytherin,13,10,18,14,13,13,15,120
+A360,Jessica Cruz,Female,Human,NA,DC Comics,good,NA,8,10,5,6,3,7,7,6,Pure-blood,1,Slytherin,12,18,11,11,12,12,5,50
+A366,Johann Krauss,Male,NA,NA,Dark Horse Comics,good,NA,9,8,6,8,6,8,5,5,Pure-blood,1,Slytherin,15,18,15,14,15,17,3,30
+A367,John Constantine,Male,Human,183,DC Comics,good,NA,8,8,5,5,8,6,5,9,Pure-blood,1,Slytherin,10,11,12,17,15,15,5,50
+A369,John Wraith,Male,NA,183,Marvel Comics,good,88,7,10,5,6,5,5,6,4,Pure-blood,1,Slytherin,17,18,14,14,17,15,8,48
+A371,Jolt,Female,NA,165,Marvel Comics,good,49,6,7,3,1,4,3,5,6,Pure-blood,1,Slytherin,17,17,11,16,18,16,6,48
+A373,Judge Dredd,Male,Human,188,Rebellion,good,NA,8,7,4,7,4,4,5,8,Muggle-born,1,Slytherin,14,14,11,12,15,15,12,96
+A380,Karate Kid,Male,Human,173,DC Comics,good,72,9,7,2,8,7,7,7,2,Pure-blood,1,Slytherin,9,11,13,17,15,16,14,140
+A385,Kid Flash,Male,Human,NA,DC Comics,good,NA,7,8,3,6,7,4,4,5,Pure-blood,1,Slytherin,8,14,10,12,11,11,6,60
+A387,Killer Croc,Male,Metahuman,244,DC Comics,bad,356,9,6,4,6,7,6,4,7,Pure-blood,1,Slytherin,9,15,16,16,12,18,9,81
+A390,King Kong,Male,Animal,30.5,,good,,8,9,7,4,6,3,1,5,Half-blood,1,Slytherin,17,12,14,16,11,15,14,126
+A393,Klaw,Male,Human,188,Marvel Comics,bad,97,8,7,4,5,6,5,9,5,Half-blood,1,Slytherin,16,17,17,17,17,11,5,35
+A397,Krypto,Male,Kryptonian,64,DC Comics,good,18,10,7,5,6,1,5,4,9,Pure-blood,1,Slytherin,18,12,10,18,13,15,3,24
+A398,Kyle Rayner,Male,Human,180,DC Comics,good,79,7,8,6,5,4,8,5,8,Pure-blood,1,Slytherin,11,18,11,13,16,18,13,117
+A400,Lady Bullseye,Female,NA,NA,Marvel Comics,bad,NA,9,7,6,8,7,1,5,7,Pure-blood,1,Slytherin,16,11,14,15,16,13,6,42
+A401,Lady Deathstrike,Female,Cyborg,175,Marvel Comics,bad,58,6,8,7,3,5,7,7,8,Pure-blood,1,Slytherin,9,14,17,11,10,10,15,120
+A409,Lightning Lord,Male,NA,191,DC Comics,bad,95,9,10,5,3,5,7,5,4,Pure-blood,1,Slytherin,15,13,15,18,14,13,13,78
+A415,Loki,Male,Asgardian,193,Marvel Comics,bad,236,8,7,7,4,7,7,4,2,Pure-blood,1,Slytherin,16,17,16,16,16,12,5,35
+A417,Luke Cage,Male,Human,198,Marvel Comics,good,191,8,6,7,5,9,6,5,7,Half-blood,1,Slytherin,12,15,15,14,12,10,14,98
+A418,Luke Campbell,Male,NA,NA,NBC - Heroes,bad,NA,9,8,9,3,8,6,5,4,Muggle-born,1,Slytherin,18,13,16,13,13,15,14,140
+A419,Luke Skywalker,Male,Human,168,George Lucas,good,77,8,10,9,7,5,2,2,2,Pure-blood,1,Slytherin,17,16,15,18,12,10,7,49
+A422,Mach-IV,Male,NA,180,Marvel Comics,bad,79,9,7,8,4,4,6,3,1,Pure-blood,1,Slytherin,11,15,14,13,17,10,11,77
+A425,Magog,Male,NA,NA,DC Comics,good,NA,7,8,5,7,4,7,5,6,Pure-blood,1,Slytherin,13,10,11,11,10,17,9,63
+A428,Man-Bat,Male,Human,NA,DC Comics,neutral,NA,8,8,6,6,7,1,6,4,Pure-blood,1,Slytherin,11,12,17,14,10,16,13,117
+A433,Martian Manhunter,Male,Martian,201,DC Comics,good,135,7,6,6,3,5,4,6,3,Pure-blood,1,Slytherin,17,12,18,18,14,11,8,48
+A438,Matt Parkman,Male,NA,NA,NBC - Heroes,good,NA,7,7,1,8,1,1,7,4,Muggle-born,1,Slytherin,18,16,13,11,15,16,6,54
+A442,Medusa,Female,Inhuman,180,Marvel Comics,good,59,6,7,2,4,8,8,3,8,Half-blood,1,Slytherin,12,14,18,17,14,16,11,88
+A444,Mephisto,Male,NA,198,Marvel Comics,bad,140,10,8,8,3,8,9,5,6,Pure-blood,1,Slytherin,18,14,10,14,14,18,7,70
+A445,Mera,Female,Atlantean,175,DC Comics,good,72,8,7,4,5,5,7,2,6,Half-blood,1,Slytherin,17,16,13,14,12,13,6,60
+A456,Miss Martian,Female,NA,178,DC Comics,good,61,8,8,7,5,7,9,8,4,Pure-blood,1,Slytherin,16,13,15,16,14,17,3,21
+A458,Mister Freeze,Male,Human,183,DC Comics,bad,86,9,10,5,4,8,5,5,7,Pure-blood,1,Slytherin,17,18,11,11,16,10,7,56
+A465,Mogo,Male,Planet,NA,DC Comics,good,NA,7,7,8,9,3,4,5,3,Pure-blood,1,Slytherin,18,10,12,10,16,18,6,42
+A471,Moon Knight,Male,Human,188,Marvel Comics,good,101,9,8,6,4,7,4,6,9,Half-blood,1,Slytherin,10,16,15,17,18,11,4,32
+A472,Moonstone,Female,NA,180,Marvel Comics,bad,59,8,7,6,5,8,9,7,4,Pure-blood,1,Slytherin,17,18,12,18,16,10,3,18
+A474,Morph,Male,NA,178,Marvel Comics,good,79,7,8,2,7,2,6,7,7,Pure-blood,1,Slytherin,15,15,17,15,16,17,7,70
+A475,Moses Magnum,Male,NA,175,Marvel Comics,bad,72,9,8,7,5,5,8,7,6,Pure-blood,1,Slytherin,13,16,16,15,12,14,9,81
+A477,Mr Incredible,Male,Human,201,Dark Horse Comics,good,158,10,10,6,4,3,9,1,3,Pure-blood,1,Slytherin,17,15,17,14,12,10,12,72
+A479,Multiple Man,Male,NA,180,Marvel Comics,good,70,10,10,6,4,8,8,9,6,Pure-blood,1,Slytherin,8,10,11,16,10,18,1,6
+A493,Niki Sanders,Female,NA,NA,NBC - Heroes,good,NA,6,7,8,4,1,7,4,8,Pure-blood,1,Slytherin,17,13,15,11,11,11,10,60
+A494,Nina Theroux,Female,Alpha,NA,SyFy,good,NA,8,6,6,3,7,7,8,2,Pure-blood,1,Slytherin,16,14,11,14,12,12,7,49
+A495,Nite Owl II,Male,NA,NA,DC Comics,good,NA,9,9,4,1,7,7,6,4,Half-blood,1,Slytherin,12,11,15,14,18,14,2,18
+A497,Nova,Male,Human,185,Marvel Comics,good,86,10,8,2,6,6,8,9,5,Muggle-born,1,Slytherin,16,18,18,12,14,15,9,72
+A500,Offspring,Male,NA,NA,DC Comics,good,NA,6,9,9,6,7,1,3,4,Pure-blood,1,Slytherin,17,12,12,11,16,11,12,84
+A505,Onslaught,Male,Mutant,305,Marvel Comics,bad,405,9,9,5,7,9,5,9,5,Half-blood,1,Slytherin,17,12,14,13,11,17,8,64
+A506,Oracle,Female,Human,178,DC Comics,good,59,9,7,8,2,9,5,5,8,Pure-blood,1,Slytherin,11,13,18,14,10,10,7,70
+A512,Penance,NA,NA,NA,Marvel Comics,good,NA,9,9,5,2,9,7,2,3,Half-blood,1,Slytherin,12,15,10,13,10,11,1,10
+A513,Penance I,Female,NA,NA,Marvel Comics,good,NA,10,9,6,9,2,5,9,3,Pure-blood,1,Slytherin,8,14,10,12,11,11,11,99
+A514,Penance II,Male,NA,183,Marvel Comics,good,89,9,8,6,3,3,3,7,2,Pure-blood,1,Slytherin,17,15,18,17,15,12,5,50
+A515,Penguin,Male,Human,157,DC Comics,bad,79,9,8,4,6,6,7,3,3,Half-blood,1,Slytherin,17,15,11,10,18,14,6,54
+A530,Professor Zoom,Male,Human,180,DC Comics,bad,81,9,8,4,9,4,1,9,6,Muggle-born,1,Slytherin,12,12,18,17,11,15,1,9
+A534,Purple Man,Male,Human,180,Marvel Comics,bad,74,7,8,7,6,6,4,5,5,Pure-blood,1,Slytherin,14,10,12,18,18,15,5,50
+A539,Quicksilver,Male,Mutant,183,Marvel Comics,good,79,7,6,3,4,8,5,9,7,Pure-blood,1,Slytherin,17,11,12,17,10,13,2,12
+A542,Rachel Pirzad,Female,Alpha,NA,SyFy,good,NA,7,6,6,8,3,8,7,7,Pure-blood,1,Slytherin,14,17,17,16,12,11,12,96
+A546,Ray,Male,Human,178,DC Comics,good,70,7,9,7,4,7,3,7,9,Pure-blood,1,Slytherin,15,13,10,10,17,16,10,70
+A549,Red Hood,Male,Human,183,DC Comics,neutral,81,8,10,3,6,3,3,4,5,Pure-blood,1,Slytherin,9,17,14,18,11,10,4,24
+A550,Red Hulk,Male,Human / Radiation,213,Marvel Comics,neutral,630,7,6,9,6,8,6,2,6,Pure-blood,1,Slytherin,10,12,15,16,12,12,6,36
+A552,Red Robin,Male,Human,165,DC Comics,good,56,9,9,9,5,5,9,8,7,Pure-blood,1,Slytherin,14,17,10,15,17,15,15,150
+A558,Rey,Female,Human,297,George Lucas,good,NA,9,9,7,6,1,3,4,7,Pure-blood,1,Slytherin,15,18,16,11,11,17,12,120
+A561,Riddler,Male,NA,NA,DC Comics,bad,NA,6,6,6,5,4,3,9,4,Pure-blood,1,Slytherin,16,13,11,15,10,11,13,104
+A568,Robin VI,Female,Human,NA,DC Comics,neutral,NA,6,8,6,3,8,2,4,5,Pure-blood,1,Slytherin,8,12,10,18,16,11,2,14
+A573,Sabretooth,Male,Mutant,198,Marvel Comics,bad,171,6,9,5,2,4,4,1,4,Pure-blood,1,Slytherin,12,16,17,18,11,15,6,54
+A574,Sage,Female,NA,170,Marvel Comics,good,61,8,7,3,6,4,8,3,2,Half-blood,1,Slytherin,18,18,11,18,18,11,2,20
+A576,Sasquatch,Male,NA,305,Marvel Comics,good,900,7,6,5,3,5,7,2,7,Half-blood,1,Slytherin,9,16,14,18,17,18,14,84
+A581,Scarlet Spider II,Male,Clone,193,Marvel Comics,good,113,9,8,6,1,8,7,4,7,Pure-blood,1,Slytherin,13,18,17,11,15,11,4,32
+A583,Scorpia,Female,NA,NA,Marvel Comics,bad,NA,8,6,6,9,5,3,7,2,Pure-blood,1,Slytherin,10,10,12,10,17,14,6,60
+A586,Sentry,Male,Mutant,188,Marvel Comics,neutral,87,7,9,8,5,8,8,3,7,Pure-blood,1,Slytherin,13,10,14,15,11,14,4,24
+A588,Shadow Lass,Female,Talokite,173,DC Comics,good,54,10,6,4,3,3,3,3,9,Half-blood,1,Slytherin,9,18,17,10,14,11,13,91
+A590,Shang-Chi,Male,Human,178,Marvel Comics,good,79,9,7,7,6,2,3,5,4,Pure-blood,1,Slytherin,10,16,15,15,12,11,3,30
+A593,She-Thing,Female,Human / Radiation,183,Marvel Comics,good,153,9,10,4,2,5,2,3,4,Pure-blood,1,Slytherin,11,17,10,11,18,15,5,45
+A594,Shocker,Male,Human,175,Marvel Comics,bad,79,10,10,2,9,7,3,4,5,Half-blood,1,Slytherin,14,13,15,10,13,13,11,110
+A600,Silk Spectre II,Female,NA,NA,DC Comics,good,NA,6,7,5,5,7,8,6,6,Pure-blood,1,Slytherin,8,10,18,15,12,15,6,54
+A603,Simon Baz,Male,Human,NA,DC Comics,good,NA,8,8,2,7,1,6,3,2,Pure-blood,1,Slytherin,17,16,15,13,13,11,8,72
+A607,Siryn,Female,NA,168,Marvel Comics,bad,52,7,7,9,6,4,8,5,4,Half-blood,1,Slytherin,14,12,17,13,18,12,10,70
+A608,Skaar,Male,NA,198,Marvel Comics,good,180,8,9,9,3,3,3,7,2,Half-blood,1,Slytherin,9,11,10,18,12,15,5,35
+A614,Space Ghost,Male,Human,188,DC Comics,good,113,9,6,4,5,8,4,7,6,Pure-blood,1,Slytherin,12,11,16,13,12,11,11,110
+A622,Spider-Gwen,Female,Human,165,Marvel Comics,good,56,7,8,7,3,7,5,4,7,Half-blood,1,Slytherin,9,13,14,18,18,13,11,66
+A632,Stacy X,Female,NA,NA,Marvel Comics,good,NA,8,9,1,3,2,3,2,7,Pure-blood,1,Slytherin,15,16,11,13,12,12,8,56
+A641,Storm,Female,Mutant,180,Marvel Comics,good,57,9,7,3,2,6,9,3,7,Pure-blood,1,Slytherin,13,13,10,14,17,13,4,32
+A642,Stormtrooper,Male,Human,183,George Lucas,bad,NA,8,10,5,7,4,4,5,8,Pure-blood,1,Slytherin,18,12,17,14,13,16,10,60
+A644,Superboy,Male,NA,170,DC Comics,good,68,6,10,4,8,2,8,2,6,Pure-blood,1,Slytherin,10,16,11,17,11,10,9,72
+A646,Supergirl,Female,Kryptonian,165,DC Comics,good,54,9,6,3,8,5,3,6,8,Half-blood,1,Slytherin,9,14,15,14,17,17,1,9
+A653,T-800,Male,Cyborg,NA,Dark Horse Comics,bad,176,7,9,4,8,7,7,7,2,Pure-blood,1,Slytherin,10,14,16,18,15,18,15,90
+A658,Thanos,Male,Eternal,201,Marvel Comics,bad,443,9,10,5,6,7,5,5,5,Pure-blood,1,Slytherin,8,13,18,14,14,16,4,32
+A661,Thing,Male,Human / Radiation,183,Marvel Comics,good,225,10,6,7,3,2,1,2,8,Muggle-born,1,Slytherin,13,13,16,17,16,14,2,16
+A664,Thunderbird,Male,NA,185,Marvel Comics,good,101,8,8,2,3,6,8,7,2,Pure-blood,1,Slytherin,12,11,12,18,10,14,13,78
+A671,Tinkerer,Male,NA,163,Marvel Comics,bad,54,7,10,2,9,1,5,5,8,Pure-blood,1,Slytherin,16,15,15,10,10,11,10,70
+A672,Titan,Male,NA,NA,HarperCollins,good,NA,9,8,5,5,5,7,7,6,Pure-blood,1,Slytherin,9,14,17,15,12,11,5,35
+A678,Trigon,Male,God / Eternal,NA,DC Comics,bad,NA,8,9,6,4,7,7,9,4,Pure-blood,1,Slytherin,10,13,12,15,14,12,11,88
+A682,Ultragirl,Female,NA,168,Marvel Comics,good,105,6,10,4,3,7,7,6,5,Pure-blood,1,Slytherin,10,14,18,12,14,13,4,40
+A684,Utgard-Loki,Male,Frost Giant,15.2,Marvel Comics,bad,58,9,9,5,6,9,6,4,7,Muggle-born,1,Slytherin,17,10,15,17,10,11,6,54
+A685,Vagabond,Female,NA,168,Marvel Comics,good,54,7,7,7,9,6,8,7,9,Half-blood,1,Slytherin,17,18,17,14,10,18,5,40
+A686,Valerie Hart,Female,NA,175,Team Epic TV,good,56,6,9,9,8,5,2,3,5,Pure-blood,1,Slytherin,11,11,13,17,11,16,4,32
+A692,Venom III,Male,Symbiote,229,Marvel Comics,bad,334,10,8,6,2,4,1,5,7,Pure-blood,1,Slytherin,16,15,18,15,12,11,4,32
+A696,Vindicator,Female,Human,165,Marvel Comics,good,54,10,9,3,4,4,7,3,6,Pure-blood,1,Slytherin,10,10,12,16,17,17,9,63
+A697,Vindicator,Male,NA,NA,Marvel Comics,good,NA,6,7,4,6,6,8,7,5,Pure-blood,1,Slytherin,16,17,15,16,17,13,4,28
+A705,Walrus,Male,Human,183,Marvel Comics,bad,162,8,9,3,3,4,7,8,5,Pure-blood,1,Slytherin,11,11,11,15,10,17,7,49
+A711,Wasp,Female,Human,163,Marvel Comics,good,50,7,9,6,4,7,7,7,5,Pure-blood,1,Slytherin,17,18,15,17,12,13,3,30
+A719,Wolfsbane,Female,NA,366,Marvel Comics,good,473,6,6,4,5,8,3,1,7,Pure-blood,1,Slytherin,18,12,17,10,15,18,9,54
+A728,Yellow Claw,Male,NA,188,Marvel Comics,bad,95,9,10,3,9,3,7,6,6,Half-blood,1,Slytherin,17,16,13,16,11,10,7,63
+A729,Yellowjacket,Male,Human,183,Marvel Comics,good,83,8,9,9,8,2,4,3,6,Half-blood,1,Slytherin,15,17,11,17,10,13,8,64
+A734,Zoom,Male,NA,185,DC Comics,bad,81,7,9,5,3,5,3,5,6,Pure-blood,1,Slytherin,17,17,16,18,13,12,2,16
+A003,Abin Sur,Male,Ungaran,185,DC Comics,good,90,6,3,8,8,5,4,2,5,Half-blood,2,Ravenclaw,13,11,13,11,15,13,2,18
+A008,Adam Strange,Male,Human,185,DC Comics,good,88,7,3,6,6,4,4,2,9,Half-blood,2,Ravenclaw,15,13,17,11,14,14,7,63
+A010,Agent Bob,Male,Human,178,Marvel Comics,good,81,6,8,9,8,2,4,7,7,Pure-blood,2,Ravenclaw,13,10,18,18,13,12,14,84
+A012,Air-Walker,Male,NA,188,Marvel Comics,bad,108,6,2,9,10,4,8,5,1,Pure-blood,2,Ravenclaw,16,15,18,10,11,14,6,48
+A014,Alan Scott,Male,NA,180,DC Comics,good,90,5,9,8,10,6,9,3,7,Half-blood,2,Ravenclaw,9,15,13,16,12,13,2,16
+A023,Angel,Male,NA,183,Marvel Comics,good,68,8,7,10,10,4,7,3,2,Muggle-born,2,Ravenclaw,14,16,10,13,11,17,6,48
+A029,Annihilus,Male,NA,180,Marvel Comics,bad,90,2,6,8,9,7,1,3,7,Half-blood,2,Ravenclaw,12,11,14,11,16,14,15,150
+A037,Aqualad,Male,Atlantean,178,DC Comics,good,106,3,6,6,6,4,4,2,8,Half-blood,2,Ravenclaw,9,17,13,12,15,11,4,32
+A038,Aquaman,Male,Atlantean,185,DC Comics,good,146,3,7,10,7,4,5,6,7,Half-blood,2,Ravenclaw,13,15,14,11,11,12,4,40
+A045,Armor,Female,NA,163,Marvel Comics,good,50,4,5,9,7,5,5,5,5,Half-blood,2,Ravenclaw,11,10,14,15,12,16,3,27
+A047,Astro Boy,Male,NA,NA,,good,NA,5,5,8,6,3,2,6,4,Muggle-born,2,Ravenclaw,9,10,14,18,15,13,2,14
+A050,Atom,Male,NA,178,DC Comics,good,68,6,7,7,8,7,7,2,4,Muggle-born,2,Ravenclaw,8,16,18,15,14,16,12,72
+A059,Aztar,Male,NA,NA,DC Comics,good,NA,4,6,7,7,3,3,6,6,Muggle-born,2,Ravenclaw,12,13,13,18,14,12,12,120
+A065,Batgirl III,Female,NA,NA,DC Comics,good,NA,8,2,8,7,2,6,1,7,Muggle-born,2,Ravenclaw,18,13,16,16,17,14,7,63
+A067,Batgirl V,Female,NA,NA,DC Comics,good,NA,2,4,8,7,8,6,4,6,Muggle-born,2,Ravenclaw,9,17,17,12,10,10,13,130
+A071,Batman II,Male,Human,178,DC Comics,good,79,3,5,7,8,6,4,3,5,Muggle-born,2,Ravenclaw,13,10,13,18,17,10,11,88
+A072,Battlestar,Male,NA,198,Marvel Comics,good,133,7,3,10,7,8,2,9,7,Pure-blood,2,Ravenclaw,16,11,17,10,14,16,1,9
+A074,Beak,Male,NA,175,Marvel Comics,good,63,6,6,10,8,4,7,6,5,Pure-blood,2,Ravenclaw,15,11,11,15,14,12,2,18
+A077,Beetle,Male,NA,NA,Marvel Comics,bad,NA,1,3,8,9,9,3,4,8,Half-blood,2,Ravenclaw,10,10,18,13,14,11,8,56
+A079,Beta Ray Bill,Male,NA,201,Marvel Comics,good,216,7,7,10,8,6,4,8,4,Half-blood,2,Ravenclaw,8,15,12,11,16,18,4,24
+A089,Bird-Man,Male,Human,NA,Marvel Comics,bad,NA,3,2,7,6,1,8,8,9,Muggle-born,2,Ravenclaw,13,18,16,11,10,18,13,78
+A090,Bird-Man II,Male,Human,NA,Marvel Comics,bad,NA,5,8,6,6,7,3,9,3,Half-blood,2,Ravenclaw,11,15,10,11,10,14,15,135
+A097,Black Canary,Female,Human,165,DC Comics,good,58,3,4,10,8,3,2,7,7,Pure-blood,2,Ravenclaw,13,18,11,17,17,16,5,30
+A099,Black Cat,Female,Human,178,Marvel Comics,good,54,9,5,7,9,5,1,7,7,Half-blood,2,Ravenclaw,9,11,16,10,14,14,10,60
+A103,Black Lightning,Male,NA,185,DC Comics,good,90,4,2,8,7,7,5,8,6,Half-blood,2,Ravenclaw,15,13,11,17,18,17,1,6
+A111,Blackwulf,Male,Alien,188,Marvel Comics,NA,88,7,6,9,8,8,6,5,6,Pure-blood,2,Ravenclaw,15,11,17,16,14,18,2,20
+A116,Blizzard,Male,NA,NA,Marvel Comics,bad,NA,3,3,9,9,5,3,4,6,Pure-blood,2,Ravenclaw,11,10,14,11,16,18,14,112
+A119,Blob,Male,NA,178,Marvel Comics,bad,230,8,5,9,9,9,6,2,5,Pure-blood,2,Ravenclaw,15,10,16,11,17,18,12,84
+A132,Booster Gold,Male,Human,196,DC Comics,good,97,8,4,9,6,5,7,3,6,Half-blood,2,Ravenclaw,16,14,15,18,17,12,11,77
+A134,Box III,NA,NA,193,Marvel Comics,good,110,7,5,7,9,9,4,4,7,Half-blood,2,Ravenclaw,11,18,16,13,10,15,3,24
+A138,Brother Voodoo,Male,Human,183,Marvel Comics,good,99,3,7,7,10,7,9,5,6,Half-blood,2,Ravenclaw,8,18,17,18,17,10,5,45
+A140,Buffy,Female,Human,157,Dark Horse Comics,good,52,6,7,7,8,3,4,7,5,Pure-blood,2,Ravenclaw,14,15,17,12,18,10,3,30
+A141,Bullseye,Male,Human,183,Marvel Comics,bad,90,5,2,9,10,5,7,5,7,Muggle-born,2,Ravenclaw,9,16,11,11,12,13,8,80
+A143,Bumbleboy,Male,NA,NA,Marvel Comics,good,NA,1,6,9,8,2,3,6,7,Muggle-born,2,Ravenclaw,10,13,14,17,10,18,4,28
+A144,Bushido,Male,Human,NA,DC Comics,good,NA,5,6,10,10,1,2,1,2,Muggle-born,2,Ravenclaw,10,18,17,10,15,14,7,56
+A146,Callisto,Female,NA,175,Marvel Comics,bad,74,5,7,8,8,8,4,3,2,Muggle-born,2,Ravenclaw,15,15,13,12,13,13,13,91
+A149,Captain America,Male,Human,188,Marvel Comics,good,108,4,3,10,7,5,8,4,3,Half-blood,2,Ravenclaw,14,11,12,14,13,12,4,32
+A156,Captain Marvel,Female,Human-Kree,180,Marvel Comics,good,74,8,4,8,8,7,3,5,8,Pure-blood,2,Ravenclaw,11,14,13,13,12,11,10,80
+A159,Captain Midnight,Male,Human,NA,Dark Horse Comics,good,NA,6,7,7,7,7,3,1,7,Pure-blood,2,Ravenclaw,14,12,14,18,13,10,11,88
+A167,Century,Male,Alien,201,Marvel Comics,good,97,7,4,8,6,4,1,7,8,Half-blood,2,Ravenclaw,8,13,18,15,10,17,1,9
+A171,Changeling,Male,NA,180,Marvel Comics,bad,81,3,5,8,6,3,5,2,3,Muggle-born,2,Ravenclaw,12,11,17,11,13,12,3,24
+A172,Cheetah,Female,Human,163,DC Comics,bad,50,7,3,9,8,6,7,2,7,Pure-blood,2,Ravenclaw,16,18,14,14,10,16,7,63
+A181,Clock King,Male,Human,178,DC Comics,bad,78,9,7,7,6,6,2,3,5,Half-blood,2,Ravenclaw,8,12,13,17,14,16,10,60
+A182,Cogliostro,Male,NA,NA,Image Comics,bad,NA,6,7,9,9,8,2,9,3,Muggle-born,2,Ravenclaw,9,10,10,14,13,17,6,54
+A186,Copycat,Female,Mutant,183,Marvel Comics,neutral,67,7,4,8,10,5,4,5,4,Pure-blood,2,Ravenclaw,17,15,11,11,16,17,12,108
+A189,Crimson Crusader,Male,NA,NA,Marvel Comics,good,NA,4,8,8,10,2,5,7,2,Muggle-born,2,Ravenclaw,14,16,14,13,12,10,11,66
+A194,Cyborg,Male,Cyborg,198,DC Comics,good,173,7,8,9,7,5,3,9,6,Half-blood,2,Ravenclaw,15,13,11,18,18,10,1,9
+A196,Cyclops,Male,Mutant,191,Marvel Comics,good,88,3,8,7,7,7,2,1,2,Muggle-born,2,Ravenclaw,16,10,16,16,17,18,5,45
+A201,Daredevil,Male,Human,183,Marvel Comics,good,90,7,3,7,10,5,7,3,5,Pure-blood,2,Ravenclaw,17,16,10,16,16,17,2,16
+A207,Darth Maul,Male,Dathomirian Zabrak,170,George Lucas,bad,NA,6,4,9,7,3,6,3,1,Pure-blood,2,Ravenclaw,11,15,12,11,10,13,7,70
+A212,Deadman,Male,Human,183,DC Comics,good,90,4,6,9,7,3,4,3,6,Muggle-born,2,Ravenclaw,11,10,10,14,12,15,6,36
+A220,DL Hawkins,Male,NA,NA,NBC - Heroes,good,NA,7,8,6,6,5,7,7,5,Pure-blood,2,Ravenclaw,10,17,18,15,16,13,13,78
+A226,Doctor Strange,Male,Human,188,Marvel Comics,good,81,5,7,6,10,4,7,1,6,Muggle-born,2,Ravenclaw,11,11,10,13,11,16,9,81
+A227,Domino,Female,Human,173,Marvel Comics,good,54,5,5,9,7,4,4,2,2,Half-blood,2,Ravenclaw,8,15,18,16,13,14,15,90
+A235,Ego,NA,NA,NA,Marvel Comics,bad,NA,3,9,7,7,5,4,3,4,Half-blood,2,Ravenclaw,16,16,17,10,11,12,11,88
+A250,Fabian Cortez,NA,NA,196,Marvel Comics,bad,96,4,5,10,8,8,8,6,5,Muggle-born,2,Ravenclaw,8,16,14,18,11,14,5,40
+A251,Falcon,Male,Human,188,Marvel Comics,good,108,5,6,7,9,6,3,8,2,Half-blood,2,Ravenclaw,16,11,14,12,14,16,12,108
+A263,Flash,Male,Human,180,DC Comics,good,81,2,3,9,7,3,5,7,2,Half-blood,2,Ravenclaw,8,14,15,15,15,13,6,42
+A266,Flash III,Male,Human,183,DC Comics,good,86,6,4,7,9,3,7,3,1,Muggle-born,2,Ravenclaw,14,10,16,11,17,12,6,60
+A268,Forge,NA,NA,183,Marvel Comics,good,81,5,9,9,10,7,7,5,3,Muggle-born,2,Ravenclaw,9,18,17,10,10,18,6,48
+A269,Franklin Richards,Male,Mutant,142,Marvel Comics,good,45,9,8,9,9,2,4,8,6,Muggle-born,2,Ravenclaw,8,12,18,13,10,18,5,35
+A276,Garbage Man,Male,Mutant,NA,DC Comics,good,NA,2,3,8,7,2,5,4,6,Muggle-born,2,Ravenclaw,11,12,15,13,18,12,5,35
+A280,Ghost Rider,Male,Demon,188,Marvel Comics,good,99,4,4,8,10,1,7,7,7,Half-blood,2,Ravenclaw,14,10,11,14,16,11,8,64
+A282,Giant-Man,Male,Human,NA,Marvel Comics,good,NA,7,7,10,6,4,6,9,7,Muggle-born,2,Ravenclaw,15,18,14,18,16,16,15,135
+A285,Gladiator,Male,Strontian,198,Marvel Comics,neutral,268,7,9,8,8,3,4,4,3,Pure-blood,2,Ravenclaw,18,11,12,11,17,11,11,88
+A289,Goku,Male,Saiyan,175,Shueisha,good,62,5,9,9,10,6,2,5,3,Half-blood,2,Ravenclaw,11,13,12,14,17,18,9,72
+A292,Goliath,Male,Human,NA,Marvel Comics,good,NA,5,7,7,8,7,1,4,4,Half-blood,2,Ravenclaw,13,18,16,14,14,14,2,20
+A307,Han Solo,Male,Human,183,George Lucas,good,79,6,6,10,10,1,6,6,2,Half-blood,2,Ravenclaw,12,13,12,13,18,15,2,12
+A312,Hawk,Male,NA,185,DC Comics,good,89,2,3,10,7,5,6,4,6,Muggle-born,2,Ravenclaw,16,14,17,14,16,13,13,130
+A315,Hawkgirl,Female,NA,175,DC Comics,good,61,8,6,8,6,3,2,2,5,Pure-blood,2,Ravenclaw,14,17,15,17,12,12,1,10
+A322,Hellboy,Male,Demon,259,Dark Horse Comics,good,158,3,8,9,7,3,1,2,3,Muggle-born,2,Ravenclaw,9,12,17,10,15,17,8,72
+A325,Hercules,Male,Demi-God,196,Marvel Comics,good,146,6,6,8,7,4,8,3,2,Muggle-born,2,Ravenclaw,12,18,11,18,16,10,7,63
+A326,Hiro Nakamura,Male,NA,NA,NBC - Heroes,good,NA,6,8,8,8,4,2,4,3,Half-blood,2,Ravenclaw,17,13,15,16,15,18,13,104
+A329,Hollow,Female,NA,170,Marvel Comics,good,NA,3,6,7,7,8,3,4,7,Half-blood,2,Ravenclaw,18,11,16,17,17,17,15,105
+A334,Huntress,Female,NA,180,DC Comics,good,59,1,5,9,6,6,4,9,2,Half-blood,2,Ravenclaw,12,14,16,10,10,14,14,140
+A336,Hybrid,Male,Symbiote,175,Marvel Comics,good,77,1,2,9,6,7,6,3,5,Muggle-born,2,Ravenclaw,8,14,15,18,18,14,13,91
+A342,Indigo,Female,Alien,NA,DC Comics,neutral,NA,9,9,10,6,3,8,5,5,Muggle-born,2,Ravenclaw,14,18,16,18,16,18,7,42
+A343,Ink,Male,Mutant,180,Marvel Comics,good,81,4,6,7,9,5,6,6,6,Half-blood,2,Ravenclaw,16,10,12,18,18,12,7,70
+A353,James T. Kirk,Male,Human,178,Star Trek,good,77,5,9,8,10,4,5,6,7,Muggle-born,2,Ravenclaw,13,17,10,10,14,15,15,120
+A355,Jason Bourne,Male,Human,NA,,good,NA,7,2,9,7,3,4,3,8,Half-blood,2,Ravenclaw,9,17,12,11,15,17,1,9
+A356,Jean Grey,Female,Mutant,168,Marvel Comics,good,52,8,5,10,10,2,6,2,6,Pure-blood,2,Ravenclaw,13,10,16,15,18,12,8,64
+A361,Jessica Jones,Female,Human,170,Marvel Comics,good,56,6,7,7,10,1,7,8,2,Half-blood,2,Ravenclaw,13,17,18,16,13,15,12,96
+A362,Jessica Sanders,Female,NA,NA,NBC - Heroes,good,NA,2,3,7,7,6,7,6,3,Half-blood,2,Ravenclaw,11,17,10,12,14,17,9,54
+A376,Justice,Male,Human,178,Marvel Comics,good,81,1,3,8,9,3,7,5,8,Half-blood,2,Ravenclaw,15,10,17,15,18,18,13,78
+A377,Jyn Erso,Female,Human,NA,George Lucas,good,NA,3,6,7,6,3,8,6,5,Pure-blood,2,Ravenclaw,13,13,15,16,14,13,11,99
+A379,Kang,Male,NA,191,Marvel Comics,bad,104,3,6,7,7,9,5,6,5,Pure-blood,2,Ravenclaw,14,16,13,15,13,18,10,90
+A383,Kevin 11,Male,Human,NA,DC Comics,good,NA,5,3,6,9,6,5,4,8,Half-blood,2,Ravenclaw,13,11,12,10,15,15,13,91
+A392,Kingpin,Male,Human,201,Marvel Comics,bad,203,5,3,10,10,9,8,8,5,Muggle-born,2,Ravenclaw,17,11,10,10,12,18,5,40
+A394,Kool-Aid Man,Male,NA,NA,,good,NA,4,8,9,7,4,4,4,5,Half-blood,2,Ravenclaw,13,10,12,14,13,10,8,48
+A395,Kraven II,Male,Human,191,Marvel Comics,bad,99,8,4,7,7,5,7,8,2,Half-blood,2,Ravenclaw,9,10,12,10,17,18,15,105
+A396,Kraven the Hunter,Male,Human,183,Marvel Comics,bad,106,7,1,7,8,2,3,1,2,Muggle-born,2,Ravenclaw,8,14,16,14,13,14,11,66
+A404,Legion,Male,Mutant,175,Marvel Comics,good,59,6,6,8,7,3,1,3,4,Muggle-born,2,Ravenclaw,9,18,16,12,16,16,11,110
+A410,Living Brain,NA,NA,198,Marvel Comics,bad,360,1,9,6,6,5,7,5,7,Half-blood,2,Ravenclaw,10,16,11,16,12,12,15,135
+A416,Longshot,Male,Human,188,Marvel Comics,good,36,8,3,7,8,6,6,6,4,Half-blood,2,Ravenclaw,15,17,17,16,14,17,15,90
+A423,Machine Man,NA,NA,183,Marvel Comics,good,383,3,7,7,7,6,8,7,7,Half-blood,2,Ravenclaw,16,15,13,13,12,17,6,36
+A430,Man-Wolf,Male,NA,188,Marvel Comics,good,90,3,4,9,7,3,6,7,5,Pure-blood,2,Ravenclaw,14,16,16,16,12,15,6,54
+A437,Match,Male,NA,NA,DC Comics,bad,NA,3,2,8,9,5,5,4,9,Muggle-born,2,Ravenclaw,11,16,12,15,12,14,9,81
+A449,Metron,Male,NA,185,DC Comics,good,86,6,9,9,6,3,4,7,5,Muggle-born,2,Ravenclaw,17,10,11,15,18,12,1,10
+A457,Mister Fantastic,Male,Human / Radiation,185,Marvel Comics,good,81,6,7,7,9,5,8,3,5,Muggle-born,2,Ravenclaw,17,16,18,15,18,16,9,81
+A459,Mister Knife,Male,Spartoi,NA,Marvel Comics,bad,NA,5,1,9,6,8,8,3,3,Half-blood,2,Ravenclaw,16,12,14,17,16,13,1,8
+A466,Mohinder Suresh,Male,NA,NA,NBC - Heroes,good,NA,6,3,8,8,2,8,6,3,Muggle-born,2,Ravenclaw,9,14,16,11,18,13,10,60
+A467,Moloch,Male,NA,NA,DC Comics,bad,NA,5,3,7,9,4,5,6,1,Half-blood,2,Ravenclaw,13,18,13,12,13,18,12,120
+A468,Molten Man,Male,NA,196,Marvel Comics,bad,248,7,5,9,7,9,4,4,6,Half-blood,2,Ravenclaw,11,13,16,12,13,16,14,98
+A486,Naruto Uzumaki,Male,Human,168,Shueisha,good,54,6,6,8,10,2,3,8,5,Pure-blood,2,Ravenclaw,8,18,17,14,13,17,3,30
+A496,Northstar,Male,NA,180,Marvel Comics,good,83,7,4,8,10,7,5,8,7,Muggle-born,2,Ravenclaw,14,18,13,16,18,15,11,88
+A504,One-Above-All,NA,Cosmic Entity,NA,Marvel Comics,neutral,NA,9,4,8,6,4,7,6,9,Muggle-born,2,Ravenclaw,12,13,11,17,13,18,5,40
+A510,Parademon,NA,Parademon,NA,DC Comics,bad,NA,6,7,10,6,7,1,4,9,Muggle-born,2,Ravenclaw,12,16,14,18,15,13,10,100
+A521,Plastic Lad,Male,NA,NA,DC Comics,good,NA,7,8,8,6,4,4,3,6,Half-blood,2,Ravenclaw,17,17,14,18,14,10,15,120
+A522,Plastic Man,Male,Human,185,DC Comics,good,80,4,6,7,9,4,9,6,5,Half-blood,2,Ravenclaw,11,18,10,10,12,16,4,40
+A529,Professor X,Male,Mutant,183,Marvel Comics,good,86,6,6,8,8,3,6,4,4,Pure-blood,2,Ravenclaw,10,17,14,16,17,17,4,40
+A533,Punisher,Male,Human,183,Marvel Comics,good,90,5,5,8,7,6,2,4,3,Pure-blood,2,Ravenclaw,14,16,16,14,11,18,12,72
+A536,Q,Male,God / Eternal,NA,Star Trek,NA,NA,6,4,9,7,3,6,5,4,Muggle-born,2,Ravenclaw,11,13,14,16,16,15,5,35
+A537,Quantum,Male,NA,NA,HarperCollins,good,NA,4,2,8,10,2,9,8,6,Pure-blood,2,Ravenclaw,11,17,16,14,12,10,15,90
+A544,Raphael,Male,Mutant,NA,IDW Publishing,good,NA,2,7,6,7,5,4,7,2,Muggle-born,2,Ravenclaw,8,12,17,14,10,16,12,72
+A551,Red Mist,Male,NA,NA,Icon Comics,bad,NA,5,6,10,7,5,3,4,3,Half-blood,2,Ravenclaw,11,17,17,14,18,11,13,104
+A553,Red Skull,Male,NA,188,Marvel Comics,bad,108,3,6,9,9,7,6,3,3,Muggle-born,2,Ravenclaw,16,11,15,14,17,14,9,54
+A556,Redeemer III,Male,NA,NA,Image Comics,bad,NA,7,5,9,9,4,1,7,4,Pure-blood,2,Ravenclaw,13,17,11,16,13,10,7,56
+A557,Renata Soliz,Female,NA,NA,HarperCollins,good,NA,5,3,7,9,2,1,7,1,Half-blood,2,Ravenclaw,12,17,13,16,10,14,2,20
+A562,Rip Hunter,Male,Human,NA,DC Comics,good,NA,2,7,7,8,7,2,3,1,Half-blood,2,Ravenclaw,16,16,16,13,14,13,14,112
+A563,Ripcord,Female,NA,180,Marvel Comics,good,72,5,2,10,8,2,3,5,5,Muggle-born,2,Ravenclaw,18,17,17,18,10,15,14,84
+A564,Robin,Male,Human,178,DC Comics,good,79,3,8,8,8,5,5,7,1,Muggle-born,2,Ravenclaw,12,15,14,14,14,10,14,126
+A565,Robin II,Male,Human,183,DC Comics,good,101,6,6,7,7,7,6,4,4,Half-blood,2,Ravenclaw,12,12,12,10,16,12,3,21
+A579,Scarecrow,Male,Human,183,DC Comics,bad,63,5,7,9,7,4,3,5,3,Half-blood,2,Ravenclaw,16,13,11,13,12,14,9,90
+A587,Shadow King,NA,NA,185,Marvel Comics,good,149,6,9,8,9,4,5,4,6,Muggle-born,2,Ravenclaw,18,17,18,17,11,13,8,48
+A589,Shadowcat,Female,Mutant,168,Marvel Comics,good,50,3,4,7,7,7,7,9,2,Muggle-born,2,Ravenclaw,14,17,18,13,15,11,3,27
+A592,She-Hulk,Female,Human,201,Marvel Comics,good,315,7,4,7,8,8,6,7,2,Muggle-born,2,Ravenclaw,17,11,11,13,14,16,14,84
+A596,Shrinking Violet,Female,NA,NA,DC Comics,good,NA,4,5,8,7,6,8,3,4,Half-blood,2,Ravenclaw,13,15,11,10,15,12,7,42
+A604,Sinestro,Male,Korugaran,201,DC Comics,neutral,92,5,5,9,7,7,5,1,2,Pure-blood,2,Ravenclaw,12,15,10,10,12,16,7,56
+A605,Siren,Female,Atlantean,175,DC Comics,bad,72,5,6,9,7,4,3,4,1,Half-blood,2,Ravenclaw,16,14,15,13,12,10,9,90
+A618,Speedy,Male,Human,NA,DC Comics,good,NA,6,4,8,7,3,2,3,6,Half-blood,2,Ravenclaw,10,18,15,14,18,14,4,32
+A620,Spider-Carnage,Male,Symbiote,NA,Marvel Comics,bad,NA,1,3,7,10,4,8,8,5,Half-blood,2,Ravenclaw,10,12,11,16,18,18,6,42
+A626,Spider-Woman,Female,Human,178,Marvel Comics,good,59,5,6,10,9,2,2,7,5,Half-blood,2,Ravenclaw,11,11,10,11,12,11,5,30
+A628,Spider-Woman III,Female,NA,173,Marvel Comics,good,55,8,9,7,8,3,2,5,4,Half-blood,2,Ravenclaw,11,13,18,17,18,10,13,117
+A635,Starfire,Female,Tamaranean,193,DC Comics,good,71,2,7,8,6,5,4,4,7,Muggle-born,2,Ravenclaw,15,18,10,12,16,17,4,36
+A638,Steel,Male,NA,201,DC Comics,good,131,8,3,8,7,6,1,5,9,Half-blood,2,Ravenclaw,11,14,17,13,12,17,12,84
+A639,Stephanie Powell,Female,NA,NA,ABC Studios,good,NA,6,4,7,6,7,2,2,4,Half-blood,2,Ravenclaw,8,10,18,14,14,16,5,50
+A640,Steppenwolf,Male,New God,183,DC Comics,bad,91,3,7,7,10,4,3,1,4,Pure-blood,2,Ravenclaw,16,10,15,15,15,15,6,42
+A645,Superboy-Prime,Male,Kryptonian,180,DC Comics,bad,77,2,6,8,10,4,1,8,1,Muggle-born,2,Ravenclaw,9,12,16,16,15,18,11,88
+A652,T-1000,Male,Android,183,Dark Horse Comics,bad,146,6,9,7,8,1,7,3,6,Muggle-born,2,Ravenclaw,13,13,17,14,18,15,4,28
+A657,Tempest,Female,NA,163,Marvel Comics,good,54,4,7,8,10,8,5,6,6,Muggle-born,2,Ravenclaw,12,15,13,10,18,17,9,63
+A659,The Cape,Male,NA,NA,,good,NA,6,3,7,9,6,6,7,5,Pure-blood,2,Ravenclaw,14,12,17,14,10,13,8,56
+A660,The Comedian,Male,Human,188,DC Comics,neutral,101,4,6,8,9,7,7,5,2,Muggle-born,2,Ravenclaw,10,16,18,11,11,13,15,150
+A662,Thor,Male,Asgardian,198,Marvel Comics,good,288,7,9,9,9,3,4,7,6,Pure-blood,2,Ravenclaw,18,18,15,16,16,17,11,99
+A666,Thunderbird III,Male,NA,175,Marvel Comics,good,74,3,4,9,6,7,3,5,4,Pure-blood,2,Ravenclaw,10,14,14,13,16,12,13,117
+A670,Tigra,Female,NA,178,Marvel Comics,good,81,3,6,7,9,9,5,6,4,Muggle-born,2,Ravenclaw,13,17,14,14,17,15,12,72
+A675,Toxin,Male,Symbiote,191,Marvel Comics,good,117,5,3,9,8,5,6,6,2,Half-blood,2,Ravenclaw,12,11,14,10,13,13,5,30
+A683,Ultron,Male,Android,206,Marvel Comics,bad,331,3,3,9,8,3,6,3,7,Muggle-born,2,Ravenclaw,12,18,16,12,15,14,9,63
+A694,Vertigo II,Female,NA,168,Marvel Comics,good,52,1,6,8,6,7,1,4,7,Half-blood,2,Ravenclaw,15,16,18,18,17,11,15,135
+A695,Vibe,Male,Human,178,DC Comics,good,71,3,2,8,9,2,6,2,3,Pure-blood,2,Ravenclaw,11,13,12,14,10,13,10,70
+A700,Vision,Male,Android,191,Marvel Comics,good,135,4,7,9,7,7,1,1,9,Half-blood,2,Ravenclaw,13,13,13,17,13,13,11,110
+A710,Warpath,Male,Mutant,218,Marvel Comics,good,158,8,8,8,7,5,2,2,5,Muggle-born,2,Ravenclaw,18,14,18,12,17,12,7,56
+A712,Watcher,Male,NA,NA,Marvel Comics,good,NA,6,7,6,7,7,9,4,4,Muggle-born,2,Ravenclaw,14,10,16,18,16,13,6,36
+A718,Wiz Kid,NA,NA,140,Marvel Comics,good,39,2,7,9,6,7,8,2,9,Half-blood,2,Ravenclaw,14,11,16,14,10,16,3,21
+A730,Yellowjacket II,Female,Human,165,Marvel Comics,good,52,4,8,6,7,8,4,6,8,Muggle-born,2,Ravenclaw,13,14,16,12,16,16,13,104
+A731,Ymir,Male,Frost Giant,304.8,Marvel Comics,good,NA,2,7,7,7,6,3,8,4,Muggle-born,2,Ravenclaw,9,12,12,17,15,17,9,81
+A732,Yeoda,Male,Cool species,66,George Lucas,good,17,5,9,5,9,9,9,3,5,Muggle-born,2,Hufflepuff,12,15,15,16,18,12,10,90
+A733,Zatanna,Female,Human,170,DC Comics,good,57,9,7,7,9,6,7,7,1,Muggle-born,2,Ravenclaw,8,10,15,10,16,14,6,48
+A005,Abraxas,Male,Cosmic Entity,NA,Marvel Comics,bad,NA,4,6,6,6,7,9,8,2,Half-blood,3,Hufflepuff,17,16,14,11,13,10,14,84
+A006,Absorbing Man,Male,Human,193,Marvel Comics,bad,122,3,3,6,8,10,6,2,4,Muggle-born,3,Hufflepuff,10,11,15,10,12,13,10,100
+A013,Ajax,Male,Cyborg,193,Marvel Comics,bad,90,9,4,3,6,8,8,4,8,Half-blood,3,Hufflepuff,17,12,17,17,11,13,6,60
+A017,Alfred Pennyworth,Male,Human,178,DC Comics,good,72,8,3,5,6,10,6,6,3,Pure-blood,3,Hufflepuff,17,15,10,16,17,16,14,126
+A022,Ando Masahashi,Male,NA,NA,NBC - Heroes,good,NA,5,5,7,6,8,7,6,8,Half-blood,3,Hufflepuff,17,18,12,13,16,16,1,9
+A027,Angela,Female,NA,NA,Image Comics,bad,NA,6,1,7,7,9,7,5,2,Half-blood,3,Hufflepuff,13,18,10,14,15,15,8,56
+A030,Ant-Man,Male,Human,211,Marvel Comics,good,122,5,4,7,6,9,9,2,8,Pure-blood,3,Hufflepuff,11,17,11,17,17,17,12,72
+A035,Apocalypse,Male,Mutant,213,Marvel Comics,bad,135,6,3,8,6,6,9,2,3,Muggle-born,3,Hufflepuff,16,16,17,12,16,15,8,72
+A052,Atom Girl,Female,NA,168,DC Comics,good,54,9,7,6,1,6,7,4,3,Pure-blood,3,Hufflepuff,18,16,12,18,16,11,12,120
+A053,Atom II,Male,Human,183,DC Comics,good,81,7,9,1,8,7,10,8,7,Pure-blood,3,Hufflepuff,12,15,13,12,13,16,2,16
+A054,Atom III,Male,NA,NA,DC Comics,good,NA,8,8,3,7,8,7,5,4,Muggle-born,3,Hufflepuff,14,15,14,11,14,10,9,72
+A057,Azazel,Male,Neyaphem,183,Marvel Comics,bad,67,3,5,3,7,9,9,6,5,Muggle-born,3,Hufflepuff,9,15,15,16,12,18,12,72
+A058,Azrael,Male,Human,NA,DC Comics,good,NA,8,5,7,9,9,8,8,5,Pure-blood,3,Hufflepuff,11,11,18,12,14,10,3,21
+A068,Batgirl VI,Female,NA,168,DC Comics,good,61,3,7,6,3,8,8,7,2,Muggle-born,3,Hufflepuff,17,11,13,16,11,15,13,130
+A069,Batman,Male,Human,188,DC Comics,good,95,7,8,9,3,9,8,3,2,Half-blood,3,Hufflepuff,16,11,12,17,13,16,4,28
+A075,Beast,Male,Mutant,180,Marvel Comics,good,181,5,5,9,4,9,10,7,3,Half-blood,3,Hufflepuff,17,15,15,11,11,14,2,16
+A078,Ben 10,Male,NA,NA,DC Comics,good,NA,6,7,3,4,9,8,3,6,Pure-blood,3,Hufflepuff,18,14,14,10,13,11,5,45
+A082,Big Daddy,Male,NA,NA,Icon Comics,good,NA,4,6,8,7,9,7,6,6,Half-blood,3,Hufflepuff,14,10,17,18,14,16,8,48
+A087,Bionic Woman,Female,Cyborg,NA,,good,NA,2,4,4,8,9,8,8,3,Muggle-born,3,Hufflepuff,8,18,11,11,12,10,6,42
+A091,Birdman,Male,God / Eternal,NA,Hanna-Barbera,good,NA,5,3,5,4,10,10,1,5,Half-blood,3,Hufflepuff,8,11,15,10,11,14,3,30
+A093,Bizarro,Male,Bizarro,191,DC Comics,neutral,155,4,7,1,6,9,7,2,3,Half-blood,3,Hufflepuff,12,16,14,15,12,14,6,42
+A094,Black Abbott,Male,NA,NA,Marvel Comics,bad,NA,6,6,5,1,6,7,8,6,Half-blood,3,Hufflepuff,17,10,11,14,16,13,7,56
+A104,Black Mamba,Female,NA,170,Marvel Comics,bad,52,8,4,1,3,9,7,8,4,Muggle-born,3,Hufflepuff,11,10,13,17,17,18,11,88
+A106,Black Panther,Male,Human,183,Marvel Comics,good,90,7,8,5,4,6,9,4,7,Half-blood,3,Hufflepuff,17,12,12,10,14,17,13,117
+A108,Black Widow II,Female,NA,170,Marvel Comics,good,61,2,2,6,5,8,8,5,6,Muggle-born,3,Hufflepuff,13,15,18,12,15,18,14,84
+A109,Blackout,Male,Demon,191,Marvel Comics,bad,104,1,4,7,6,10,8,3,5,Half-blood,3,Hufflepuff,10,13,12,11,16,18,2,18
+A110,Blackwing,Male,NA,185,Marvel Comics,bad,86,5,8,8,9,6,10,6,9,Muggle-born,3,Hufflepuff,8,16,10,15,18,18,5,30
+A112,Blade,Male,Vampire,188,Marvel Comics,good,97,1,3,8,5,10,9,6,6,Half-blood,3,Hufflepuff,11,13,18,10,11,14,6,60
+A123,Blue Beetle,Male,NA,NA,DC Comics,good,NA,2,1,8,5,9,8,5,5,Muggle-born,3,Hufflepuff,15,18,12,17,17,12,7,70
+A127,Boba Fett,Male,Human / Clone,183,George Lucas,bad,NA,6,8,5,2,7,9,5,8,Muggle-born,3,Hufflepuff,11,12,15,13,18,16,14,126
+A128,Bolt,Male,NA,NA,Marvel Comics,good,NA,6,7,3,7,8,10,5,4,Muggle-born,3,Hufflepuff,11,15,14,15,17,11,15,105
+A129,Bomb Queen,Female,NA,NA,Image Comics,bad,NA,4,2,4,5,8,6,7,6,Half-blood,3,Hufflepuff,10,16,15,13,11,10,5,45
+A136,Brainiac,Male,Android,198,DC Comics,bad,135,6,3,3,7,7,7,7,7,Muggle-born,3,Hufflepuff,13,11,17,16,18,13,1,6
+A151,Captain Britain,Male,Human,198,Marvel Comics,good,116,2,9,6,2,6,7,3,6,Half-blood,3,Hufflepuff,14,11,18,13,16,13,4,40
+A154,Captain Hindsight,Male,Human,NA,South Park,good,NA,3,6,8,3,10,9,8,8,Muggle-born,3,Hufflepuff,9,17,17,13,15,15,7,70
+A157,Captain Marvel,Male,Human,193,DC Comics,good,101,6,3,7,8,6,7,8,7,Muggle-born,3,Hufflepuff,18,13,18,18,14,11,1,8
+A158,Captain Marvel II,Male,Human,175,DC Comics,good,74,6,6,6,6,9,8,5,7,Pure-blood,3,Hufflepuff,15,16,12,13,16,13,13,130
+A161,Captain Universe,NA,God / Eternal,NA,Marvel Comics,good,NA,3,7,5,5,9,8,5,7,Half-blood,3,Hufflepuff,15,14,17,14,12,18,1,9
+A164,Cat II,Female,NA,NA,Marvel Comics,good,NA,7,6,3,5,8,8,3,2,Pure-blood,3,Hufflepuff,17,17,15,12,14,12,8,80
+A169,Chamber,Male,Mutant,175,Marvel Comics,good,63,6,4,5,9,10,6,1,2,Half-blood,3,Hufflepuff,8,15,11,12,10,16,15,105
+A180,Cloak,Male,NA,226,Marvel Comics,good,70,5,6,3,7,7,6,6,6,Muggle-born,3,Hufflepuff,17,17,17,14,13,12,9,54
+A185,Colossus,Male,Mutant,226,Marvel Comics,good,225,6,5,3,2,9,8,9,6,Muggle-born,3,Hufflepuff,17,15,16,15,15,14,8,64
+A187,Corsair,Male,NA,191,Marvel Comics,good,79,6,1,4,2,9,10,3,8,Muggle-born,3,Hufflepuff,8,11,12,18,12,12,14,112
+A188,Cottonmouth,Male,Human,183,Marvel Comics,bad,99,6,6,7,6,10,9,4,1,Pure-blood,3,Hufflepuff,18,13,10,10,16,11,2,18
+A195,Cyborg Superman,Male,Cyborg,NA,DC Comics,bad,NA,3,5,8,4,8,8,6,4,Half-blood,3,Hufflepuff,10,12,14,16,14,11,13,104
+A204,Darkseid,Male,New God,267,DC Comics,bad,817,9,2,4,6,7,9,3,5,Muggle-born,3,Hufflepuff,8,11,17,11,11,14,2,18
+A208,Darth Vader,Male,Cyborg,198,George Lucas,bad,135,6,6,6,4,7,7,6,6,Half-blood,3,Hufflepuff,12,16,14,11,15,11,13,91
+A210,Data,Male,Android,NA,Star Trek,good,NA,6,2,3,3,9,8,4,9,Pure-blood,3,Hufflepuff,17,11,18,18,10,10,8,80
+A221,Doc Samson,Male,Human / Radiation,198,Marvel Comics,good,171,3,8,6,6,6,9,6,7,Muggle-born,3,Hufflepuff,9,17,18,17,10,11,2,16
+A222,Doctor Doom,Male,Human,201,Marvel Comics,bad,187,1,7,9,8,10,9,8,7,Pure-blood,3,Hufflepuff,12,14,10,13,13,13,11,77
+A224,Doctor Fate,Male,Human,188,DC Comics,good,89,7,2,9,6,8,8,2,8,Half-blood,3,Hufflepuff,18,14,13,10,14,11,11,77
+A225,Doctor Octopus,Male,Human,175,Marvel Comics,bad,110,7,4,3,6,7,8,8,8,Muggle-born,3,Hufflepuff,9,18,11,10,11,11,6,54
+A230,Doomsday,Male,Alien,244,DC Comics,bad,412,2,8,6,6,7,8,8,7,Half-blood,3,Hufflepuff,10,11,10,17,15,17,13,91
+A232,Dormammu,Male,NA,185,Marvel Comics,bad,NA,1,4,5,5,10,7,7,1,Half-blood,3,Hufflepuff,8,12,18,17,17,12,15,105
+A243,Energy,Female,NA,NA,HarperCollins,good,NA,2,1,2,3,7,7,2,4,Muggle-born,3,Hufflepuff,12,10,11,18,12,10,4,28
+A245,Ethan Hunt,Male,Human,168,,good,NA,9,5,3,5,9,8,7,5,Pure-blood,3,Hufflepuff,11,18,14,14,11,15,9,63
+A249,Exodus,Male,Mutant,183,Marvel Comics,bad,88,8,5,6,6,6,8,3,3,Half-blood,3,Hufflepuff,15,11,12,17,15,10,7,70
+A254,Feral,NA,NA,175,Marvel Comics,good,50,8,3,2,7,8,7,3,7,Half-blood,3,Hufflepuff,11,17,10,11,15,18,8,72
+A261,Firestorm,Male,Human,188,DC Comics,good,91,5,7,9,5,7,10,3,3,Muggle-born,3,Hufflepuff,8,16,15,15,10,12,11,88
+A262,Fixer,NA,NA,NA,Marvel Comics,bad,NA,5,7,2,3,8,9,3,6,Muggle-born,3,Hufflepuff,17,11,18,15,15,17,13,91
+A267,Flash IV,Male,Human,157,DC Comics,good,52,7,5,2,7,8,6,7,1,Muggle-born,3,Hufflepuff,8,17,14,18,11,13,10,60
+A272,Frigga,Female,NA,180,Marvel Comics,good,167,3,7,4,4,8,7,3,6,Half-blood,3,Hufflepuff,8,14,15,15,14,18,10,90
+A274,Gambit,Male,Mutant,185,Marvel Comics,good,81,5,7,6,8,10,7,8,4,Half-blood,3,Hufflepuff,9,10,15,12,15,10,4,40
+A277,Gary Bell,Male,Alpha,NA,SyFy,good,NA,4,9,2,4,7,8,6,9,Half-blood,3,Hufflepuff,16,13,11,16,13,11,8,64
+A278,General Zod,Male,Kryptonian,NA,DC Comics,bad,NA,6,4,5,7,7,7,8,3,Half-blood,3,Hufflepuff,12,12,14,16,15,10,13,130
+A288,Gog,Male,NA,NA,DC Comics,bad,NA,8,8,3,6,8,7,5,1,Half-blood,3,Hufflepuff,11,14,15,11,17,11,7,42
+A290,Goliath,Male,NA,NA,Marvel Comics,good,NA,3,3,5,2,8,9,7,3,Half-blood,3,Hufflepuff,16,17,12,17,10,13,15,90
+A291,Goliath,Male,Human,NA,Marvel Comics,good,NA,3,4,7,4,7,9,4,4,Half-blood,3,Hufflepuff,11,18,16,12,16,11,9,81
+A297,Greedo,Male,Rodian,170,George Lucas,bad,NA,3,4,6,8,7,9,5,2,Muggle-born,3,Hufflepuff,9,13,15,17,12,11,12,120
+A298,Green Arrow,Male,Human,188,DC Comics,good,88,4,3,2,4,9,8,5,6,Pure-blood,3,Hufflepuff,14,13,13,14,18,16,5,30
+A300,Green Goblin II,Male,NA,178,Marvel Comics,bad,77,3,5,6,8,8,7,3,5,Half-blood,3,Hufflepuff,17,18,15,11,17,15,6,36
+A301,Green Goblin III,Male,NA,183,Marvel Comics,good,88,9,6,9,3,7,7,8,7,Pure-blood,3,Hufflepuff,18,14,16,13,13,11,9,72
+A311,Havok,Male,Mutant,183,Marvel Comics,good,79,1,7,4,3,7,10,7,3,Muggle-born,3,Hufflepuff,8,17,12,17,15,13,6,48
+A314,Hawkeye II,Female,Human,165,Marvel Comics,good,57,6,2,4,4,8,8,4,6,Pure-blood,3,Hufflepuff,17,17,18,14,11,10,12,108
+A318,Hawkwoman II,Female,NA,NA,DC Comics,good,NA,3,5,7,8,6,10,5,6,Pure-blood,3,Hufflepuff,16,15,15,16,12,10,9,81
+A321,Hela,Female,Asgardian,213,Marvel Comics,bad,225,6,4,4,3,7,8,3,9,Muggle-born,3,Hufflepuff,17,11,18,15,18,14,12,96
+A323,Hellcat,Female,Human,173,Marvel Comics,good,61,7,8,5,3,7,9,3,8,Half-blood,3,Hufflepuff,15,12,13,17,11,15,3,30
+A327,Hit-Girl,Female,Human,NA,Icon Comics,good,NA,8,6,5,2,7,7,5,8,Half-blood,3,Hufflepuff,8,11,13,16,12,13,9,72
+A328,Hobgoblin,Male,NA,180,Marvel Comics,bad,83,7,2,1,4,9,7,7,3,Pure-blood,3,Hufflepuff,13,14,16,13,17,14,13,130
+A338,Hyperion,Male,Eternal,183,Marvel Comics,good,207,7,8,4,5,6,9,6,6,Pure-blood,3,Hufflepuff,18,17,16,12,12,10,9,81
+A344,Invisible Woman,Female,Human / Radiation,168,Marvel Comics,good,54,5,7,7,7,7,7,7,5,Muggle-born,3,Hufflepuff,18,17,16,18,11,15,1,7
+A345,Iron Fist,Male,Human,180,Marvel Comics,good,79,3,2,7,8,7,9,8,8,Half-blood,3,Hufflepuff,16,11,11,17,14,15,8,56
+A347,Iron Monger,Male,NA,NA,Marvel Comics,bad,2,6,6,3,2,9,8,6,3,Muggle-born,3,Hufflepuff,18,16,16,14,15,10,7,42
+A354,Jar Jar Binks,Male,Gungan,193,George Lucas,good,NA,3,5,6,8,8,8,2,6,Muggle-born,3,Hufflepuff,9,11,14,11,11,10,15,150
+A359,Jesse Quick,Female,Human,NA,DC Comics,good,NA,9,4,3,5,9,10,4,6,Muggle-born,3,Hufflepuff,14,18,10,10,11,12,11,110
+A364,Jim Powell,Male,NA,NA,ABC Studios,good,NA,1,4,2,6,8,8,5,6,Pure-blood,3,Hufflepuff,15,12,16,15,18,15,1,9
+A365,JJ Powell,Male,NA,NA,ABC Studios,good,NA,7,5,6,5,7,10,4,8,Muggle-born,3,Hufflepuff,8,13,15,13,17,12,11,110
+A374,Juggernaut,Male,Human,287,Marvel Comics,neutral,855,6,9,3,4,8,8,5,9,Half-blood,3,Hufflepuff,12,14,11,13,16,11,4,32
+A375,Junkpile,Male,Mutant,NA,Marvel Comics,bad,NA,2,7,1,6,10,7,4,7,Half-blood,3,Hufflepuff,17,12,13,15,11,13,12,72
+A378,K-2SO,Male,Android,213,George Lucas,good,NA,8,5,5,4,8,9,3,1,Half-blood,3,Hufflepuff,13,12,13,18,14,16,9,63
+A381,Kathryn Janeway,Female,Human,NA,Star Trek,good,NA,5,5,5,9,9,7,5,3,Muggle-born,3,Hufflepuff,17,10,16,16,15,17,3,24
+A384,Kick-Ass,Male,Human,NA,Icon Comics,good,NA,8,3,6,9,8,8,8,6,Pure-blood,3,Hufflepuff,8,15,17,10,18,17,11,88
+A386,Kid Flash II,Male,NA,NA,DC Comics,good,NA,3,4,7,4,9,6,3,5,Half-blood,3,Hufflepuff,12,10,15,17,18,17,1,8
+A388,Killer Frost,Female,Human,NA,DC Comics,bad,NA,8,4,3,8,7,6,6,8,Half-blood,3,Hufflepuff,17,12,13,14,13,14,7,56
+A399,Kylo Ren,Male,Human,NA,George Lucas,bad,NA,5,7,4,3,9,10,1,3,Muggle-born,3,Hufflepuff,18,12,14,10,11,11,10,80
+A403,Leech,Male,NA,NA,Marvel Comics,good,NA,1,8,2,4,9,9,8,9,Half-blood,3,Hufflepuff,15,17,11,18,13,15,14,84
+A405,Leonardo,Male,Mutant,NA,IDW Publishing,good,NA,6,5,3,5,8,6,3,5,Muggle-born,3,Hufflepuff,18,18,16,12,12,12,14,98
+A406,Lex Luthor,Male,Human,188,DC Comics,bad,95,3,8,5,7,9,8,4,4,Half-blood,3,Hufflepuff,18,15,17,16,12,18,15,135
+A407,Light Lass,Female,NA,165,DC Comics,good,54,6,4,6,3,8,6,3,7,Muggle-born,3,Hufflepuff,18,13,14,13,13,11,7,49
+A411,Living Tribunal,NA,Cosmic Entity,NA,Marvel Comics,neutral,NA,8,4,5,7,6,10,4,7,Muggle-born,3,Hufflepuff,15,12,17,15,15,15,15,135
+A412,Liz Sherman,Female,NA,NA,Dark Horse Comics,good,NA,3,5,6,5,8,10,7,2,Half-blood,3,Hufflepuff,17,13,18,11,12,14,13,117
+A420,Luna,Female,Human,NA,Marvel Comics,good,NA,8,3,8,3,9,8,9,4,Muggle-born,3,Hufflepuff,8,17,12,17,13,17,10,90
+A424,Magneto,Male,Mutant,188,Marvel Comics,bad,86,2,8,7,5,9,9,5,2,Half-blood,3,Hufflepuff,17,11,15,18,15,15,2,16
+A426,Magus,Male,NA,183,Marvel Comics,bad,NA,1,3,6,1,9,8,4,6,Muggle-born,3,Hufflepuff,15,14,15,13,18,15,14,98
+A431,Mandarin,Male,Human,188,Marvel Comics,bad,97,3,9,9,3,9,7,8,4,Half-blood,3,Hufflepuff,14,12,12,14,18,13,8,80
+A432,Mantis,Female,Human-Kree,168,Marvel Comics,good,52,3,5,7,2,8,9,3,3,Muggle-born,3,Hufflepuff,14,12,14,11,16,10,11,110
+A436,Master Chief,Male,Human / Altered,213,Microsoft,good,NA,2,6,6,5,8,6,8,1,Muggle-born,3,Hufflepuff,10,10,18,10,13,18,1,9
+A439,Maverick,Male,NA,193,Marvel Comics,good,110,2,2,6,8,8,10,2,7,Muggle-born,3,Hufflepuff,10,12,10,15,13,11,10,70
+A440,Maxima,Female,NA,180,DC Comics,bad,72,4,5,9,6,9,7,7,3,Half-blood,3,Hufflepuff,8,11,15,12,17,16,14,98
+A446,Metallo,Male,Android,196,DC Comics,bad,90,4,6,6,6,7,8,6,5,Half-blood,3,Hufflepuff,16,11,14,18,12,15,14,98
+A447,Metamorpho,Male,NA,185,DC Comics,good,90,7,3,5,5,9,6,8,3,Muggle-born,3,Hufflepuff,17,18,11,17,15,10,14,112
+A453,Mimic,Male,NA,188,Marvel Comics,good,101,5,4,8,8,8,9,2,2,Pure-blood,3,Hufflepuff,16,12,17,13,14,18,3,18
+A454,Minna Murray,Female,NA,NA,Wildstorm,good,NA,8,3,5,2,7,10,9,5,Half-blood,3,Hufflepuff,10,17,15,10,14,12,7,49
+A462,Mister Zsasz,Male,Human,NA,DC Comics,bad,NA,6,5,2,9,8,9,3,2,Muggle-born,3,Hufflepuff,9,18,11,10,16,16,15,135
+A469,Monarch,Male,NA,193,DC Comics,good,90,2,4,4,3,10,8,8,7,Pure-blood,3,Hufflepuff,8,13,11,13,18,17,15,120
+A473,Morlun,Male,NA,188,Marvel Comics,bad,79,8,7,5,7,7,9,5,4,Muggle-born,3,Hufflepuff,10,15,12,11,16,17,5,30
+A480,Mysterio,Male,Human,180,Marvel Comics,bad,79,5,6,4,6,8,10,3,2,Muggle-born,3,Hufflepuff,11,15,14,15,10,12,3,24
+A481,Mystique,Female,Mutant,178,Marvel Comics,bad,54,4,6,7,1,8,7,4,9,Half-blood,3,Hufflepuff,13,12,16,15,14,18,4,32
+A482,Namor,Male,NA,NA,Marvel Comics,good,NA,4,7,2,5,7,7,6,3,Muggle-born,3,Hufflepuff,13,18,15,13,10,11,7,42
+A483,Namor,Male,Atlantean,188,Marvel Comics,good,125,4,8,2,3,10,8,7,6,Half-blood,3,Hufflepuff,17,12,18,10,13,12,7,63
+A484,Namora,Female,NA,180,Marvel Comics,good,85,2,7,6,5,9,9,6,5,Muggle-born,3,Hufflepuff,8,10,18,15,18,12,1,8
+A487,Nathan Petrelli,Male,NA,NA,NBC - Heroes,good,NA,3,7,5,3,7,6,5,7,Half-blood,3,Hufflepuff,8,18,16,10,14,17,15,120
+A489,Negasonic Teenage Warhead,Female,Mutant,NA,Marvel Comics,good,NA,4,5,7,6,7,6,6,4,Half-blood,3,Hufflepuff,12,13,18,15,14,12,6,36
+A502,Omniscient,Male,NA,180,Team Epic TV,good,65,4,6,2,6,7,6,6,7,Muggle-born,3,Hufflepuff,17,11,18,14,10,12,7,42
+A508,Overtkill,Male,NA,NA,Image Comics,bad,NA,8,4,3,7,8,7,9,8,Half-blood,3,Hufflepuff,12,17,18,10,11,11,12,84
+A509,Ozymandias,Male,Human,NA,DC Comics,bad,NA,3,4,7,5,8,8,4,5,Muggle-born,3,Hufflepuff,14,18,18,15,10,11,15,150
+A511,Paul Blart,Male,Human,170,Sony Pictures,good,117,5,8,6,9,8,7,6,7,Half-blood,3,Hufflepuff,14,11,14,12,17,14,15,105
+A517,Phantom,Male,NA,NA,DC Comics,good,NA,3,7,2,4,10,7,5,5,Half-blood,3,Hufflepuff,16,13,18,12,18,10,13,117
+A518,Phantom Girl,Female,NA,168,DC Comics,good,54,8,4,3,6,9,8,4,5,Half-blood,3,Hufflepuff,16,10,17,14,15,16,5,30
+A519,Phoenix,Female,Mutant,168,Marvel Comics,good,52,5,6,3,5,7,9,4,7,Half-blood,3,Hufflepuff,10,16,18,18,13,18,13,117
+A524,Poison Ivy,Female,Human,168,DC Comics,bad,50,3,1,5,7,9,7,4,5,Half-blood,3,Hufflepuff,18,16,14,11,10,15,11,77
+A525,Polaris,Female,Mutant,170,Marvel Comics,good,52,5,8,6,6,7,7,3,4,Half-blood,3,Hufflepuff,17,12,14,13,15,15,14,140
+A526,Power Girl,Female,Kryptonian,180,DC Comics,good,81,6,1,7,7,10,9,6,8,Muggle-born,3,Hufflepuff,17,17,16,14,16,18,11,66
+A528,Predator,Male,Yautja,213,Dark Horse Comics,bad,234,4,5,4,5,7,9,6,6,Half-blood,3,Hufflepuff,12,18,17,14,14,14,5,50
+A531,Proto-Goblin,Male,NA,NA,Marvel Comics,bad,NA,4,6,5,6,7,9,2,1,Muggle-born,3,Hufflepuff,18,14,16,15,14,17,14,98
+A532,Psylocke,Female,Mutant,180,Marvel Comics,good,70,2,7,1,2,8,8,9,3,Muggle-born,3,Hufflepuff,14,10,14,14,17,15,9,81
+A540,Quill,Male,NA,163,Marvel Comics,good,56,8,5,5,7,8,9,8,4,Half-blood,3,Hufflepuff,13,17,17,12,17,16,4,32
+A541,Ra's Al Ghul,Male,Human,193,DC Comics,bad,97,6,5,3,7,8,8,1,2,Muggle-born,3,Hufflepuff,13,11,16,10,12,15,12,72
+A543,Rambo,Male,Human,178,,good,83,5,8,1,7,8,8,4,3,Muggle-born,3,Hufflepuff,10,14,18,12,13,16,3,21
+A547,Razor-Fist II,Male,NA,191,Marvel Comics,bad,117,6,5,4,7,8,6,5,7,Half-blood,3,Hufflepuff,17,14,16,11,12,15,6,42
+A548,Red Arrow,Male,Human,180,DC Comics,good,83,7,6,7,6,7,7,6,3,Muggle-born,3,Hufflepuff,18,16,15,16,16,16,10,70
+A554,Red Tornado,Male,Android,185,DC Comics,good,146,7,5,6,3,7,6,8,7,Pure-blood,3,Hufflepuff,9,10,17,13,12,13,12,120
+A555,Redeemer II,Male,NA,NA,Image Comics,bad,NA,2,8,7,6,9,9,2,6,Muggle-born,3,Hufflepuff,12,14,13,16,14,11,7,42
+A559,Rhino,Male,Human / Radiation,196,Marvel Comics,bad,320,3,8,4,4,8,9,9,7,Half-blood,3,Hufflepuff,16,17,12,12,11,14,9,72
+A566,Robin III,Male,Human,165,DC Comics,good,56,5,7,7,9,8,10,5,4,Muggle-born,3,Hufflepuff,13,10,12,10,15,12,2,18
+A567,Robin V,Male,Human,137,DC Comics,good,38,3,2,4,2,7,9,8,6,Pure-blood,3,Hufflepuff,15,17,10,13,11,17,2,16
+A571,Ronin,Male,Human,191,Marvel Comics,good,104,5,3,8,4,8,8,1,7,Half-blood,3,Hufflepuff,9,17,11,17,16,12,10,80
+A575,Sandman,Male,Human,185,Marvel Comics,neutral,203,5,7,3,5,9,7,6,4,Pure-blood,3,Hufflepuff,8,16,10,17,13,16,6,42
+A578,Savage Dragon,Male,NA,NA,Image Comics,good,NA,2,8,8,9,8,9,3,9,Half-blood,3,Hufflepuff,9,11,11,18,12,15,13,78
+A585,Sebastian Shaw,Male,Mutant,NA,Marvel Comics,bad,NA,6,2,9,2,9,9,2,7,Pure-blood,3,Hufflepuff,16,18,16,17,14,12,2,18
+A591,Shatterstar,Male,NA,191,Marvel Comics,good,88,5,3,7,4,8,9,2,3,Half-blood,3,Hufflepuff,18,16,18,10,10,12,5,40
+A597,Sif,Female,Asgardian,188,Marvel Comics,good,191,3,6,6,2,7,8,5,1,Pure-blood,3,Hufflepuff,9,14,10,16,14,11,13,78
+A599,Silk Spectre,Female,NA,NA,DC Comics,good,NA,6,7,7,8,9,10,4,3,Half-blood,3,Hufflepuff,17,15,17,18,17,11,8,80
+A602,Silverclaw,Female,NA,157,Marvel Comics,good,50,4,4,5,8,9,8,9,4,Muggle-born,3,Hufflepuff,14,11,13,12,11,14,7,42
+A609,Snake-Eyes,Male,Animal,NA,Marvel Comics,bad,NA,6,5,5,6,10,8,8,7,Muggle-born,3,Hufflepuff,16,18,18,10,18,14,15,135
+A612,Solomon Grundy,Male,Zombie,279,DC Comics,bad,437,8,4,6,7,6,8,4,3,Pure-blood,3,Hufflepuff,18,16,18,18,16,13,15,105
+A615,Spawn,Male,Demon,211,Image Comics,good,405,4,3,3,4,10,7,4,2,Half-blood,3,Hufflepuff,13,11,13,14,15,16,13,117
+A619,Speedy,Female,Human,NA,DC Comics,good,NA,6,6,1,8,8,9,7,5,Pure-blood,3,Hufflepuff,11,11,14,16,14,14,12,108
+A633,Star-Lord,Male,Human-Spartoi,188,Marvel Comics,good,79,2,7,4,7,6,8,4,3,Pure-blood,3,Hufflepuff,10,16,17,17,14,15,7,63
+A637,Static,Male,Mutant,170,DC Comics,good,63,2,7,3,3,8,7,9,7,Half-blood,3,Hufflepuff,8,10,17,13,14,13,15,150
+A643,Sunspot,Male,Mutant,173,Marvel Comics,good,77,7,7,4,8,8,7,7,4,Half-blood,3,Hufflepuff,10,18,13,11,12,16,14,84
+A647,Superman,Male,Kryptonian,191,DC Comics,good,101,7,8,4,5,7,8,7,6,Muggle-born,3,Hufflepuff,12,10,11,17,10,11,12,72
+A648,Swamp Thing,Male,God / Eternal,NA,DC Comics,bad,NA,6,4,3,5,6,8,5,8,Muggle-born,3,Hufflepuff,9,10,11,14,17,13,12,72
+A654,T-850,Male,Cyborg,NA,Dark Horse Comics,bad,198,7,7,8,1,8,10,8,7,Half-blood,3,Hufflepuff,18,15,13,14,13,18,13,78
+A655,T-X,Female,Cyborg,NA,Dark Horse Comics,bad,149,7,4,2,4,7,9,2,6,Muggle-born,3,Hufflepuff,8,13,13,11,18,12,12,108
+A663,Thor Girl,Female,Asgardian,175,Marvel Comics,good,143,7,2,6,4,10,7,2,4,Muggle-born,3,Hufflepuff,9,16,16,13,14,15,4,32
+A667,Thunderstrike,Male,NA,198,Marvel Comics,good,288,1,3,4,5,7,10,3,6,Half-blood,3,Hufflepuff,14,17,16,17,10,16,14,84
+A668,Thundra,Female,NA,218,Marvel Comics,good,158,6,4,9,4,6,8,4,8,Muggle-born,3,Hufflepuff,11,11,12,13,14,15,3,18
+A669,Tiger Shark,Male,Human,185,Marvel Comics,bad,203,6,1,6,7,10,6,6,4,Half-blood,3,Hufflepuff,13,12,10,17,12,15,10,60
+A676,Tracy Strauss,Female,NA,NA,NBC - Heroes,good,NA,4,5,1,5,7,9,5,4,Muggle-born,3,Hufflepuff,15,18,16,12,18,11,15,120
+A679,Triplicate Girl,Female,NA,168,DC Comics,good,59,8,5,7,2,8,7,8,7,Muggle-born,3,Hufflepuff,13,12,16,13,16,14,9,90
+A681,Two-Face,Male,NA,183,DC Comics,bad,82,3,4,7,3,10,8,4,7,Muggle-born,3,Hufflepuff,18,16,13,11,12,18,6,36
+A689,Vegeta,Male,Saiyan,168,Shueisha,bad,73,6,4,3,4,9,6,2,3,Muggle-born,3,Hufflepuff,14,14,16,13,18,17,14,126
+A691,Venom II,Male,NA,175,Marvel Comics,bad,50,2,1,3,6,6,8,2,6,Muggle-born,3,Hufflepuff,9,16,18,17,11,11,12,84
+A693,Venompool,Male,Symbiote,226,Marvel Comics,NA,NA,5,4,7,5,9,8,5,3,Pure-blood,3,Hufflepuff,18,10,14,12,14,18,8,80
+A698,Violator,Male,NA,NA,Image Comics,bad,NA,6,9,1,5,9,7,6,5,Half-blood,3,Hufflepuff,14,14,13,11,12,15,3,30
+A699,Violet Parr,Female,Human,137,Dark Horse Comics,good,41,3,5,9,5,7,7,4,4,Muggle-born,3,Hufflepuff,16,14,10,18,15,14,11,88
+A701,Vision II,NA,NA,191,Marvel Comics,good,135,5,7,4,7,10,7,9,3,Muggle-born,3,Hufflepuff,15,14,14,13,13,17,11,110
+A706,War Machine,Male,Human,185,Marvel Comics,good,95,3,6,7,5,10,9,8,6,Half-blood,3,Hufflepuff,15,12,16,18,13,12,2,16
+A709,Warp,Male,NA,173,DC Comics,bad,67,4,5,2,7,8,9,4,4,Muggle-born,3,Hufflepuff,16,18,13,12,16,16,3,24
+A713,Weapon XI,Male,NA,NA,Marvel Comics,bad,NA,4,4,5,7,6,6,4,4,Pure-blood,3,Hufflepuff,16,18,10,15,18,18,14,112
+A714,White Canary,Female,Human,NA,DC Comics,bad,NA,9,7,7,9,8,6,8,3,Half-blood,3,Hufflepuff,8,10,18,12,18,17,5,40
+A715,White Queen,Female,NA,178,Marvel Comics,good,65,5,2,4,4,10,6,7,4,Muggle-born,3,Hufflepuff,10,10,11,17,13,14,15,135
+A716,Wildfire,Male,NA,NA,DC Comics,good,NA,7,1,5,8,8,9,5,7,Muggle-born,3,Hufflepuff,13,14,12,11,11,10,7,56
+A720,Wolverine,Male,Mutant,160,Marvel Comics,good,135,4,4,1,4,8,7,3,7,Pure-blood,3,Hufflepuff,9,16,10,11,16,11,11,88
+A721,Wonder Girl,Female,Demi-God,165,DC Comics,good,51,4,7,3,4,7,8,5,3,Pure-blood,3,Hufflepuff,10,14,13,18,16,11,2,12
+A724,Wondra,Female,NA,NA,Marvel Comics,good,NA,2,4,4,8,8,9,7,4,Half-blood,3,Hufflepuff,15,12,16,15,10,17,6,60
+A725,Wyatt Wingfoot,Male,NA,196,Marvel Comics,good,117,4,8,8,9,9,9,1,8,Half-blood,3,Hufflepuff,18,17,18,13,12,16,2,16
+A007,Adam Monroe,Male,NA,NA,NBC - Heroes,good,NA,6,3,7,5,3,4,8,8,Muggle-born,4,Gryffindor,17,16,15,10,12,15,9,90
+A011,Agent Zero,Male,NA,191,Marvel Comics,good,104,8,9,2,7,6,3,8,7,Muggle-born,4,Gryffindor,15,12,16,11,10,18,4,36
+A018,Alien,Male,Xenomorph XX121,244,Dark Horse Comics,bad,169,4,8,2,4,2,3,6,8,Muggle-born,4,Gryffindor,14,14,11,15,10,11,9,63
+A019,Allan Quatermain,Male,NA,NA,Wildstorm,good,NA,3,2,8,5,8,9,7,6,Muggle-born,4,Gryffindor,18,10,13,16,11,11,1,8
+A020,Amazo,Male,Android,257,DC Comics,bad,173,6,3,9,3,7,8,9,6,Muggle-born,4,Gryffindor,17,14,11,18,14,18,14,112
+A021,Ammo,Male,Human,188,Marvel Comics,bad,101,7,5,8,5,8,4,9,6,Half-blood,4,Gryffindor,18,18,11,15,11,16,10,60
+A026,Angel Salvadore,Female,NA,163,Marvel Comics,good,54,7,2,6,3,4,5,9,6,Muggle-born,4,Gryffindor,14,13,10,10,18,18,4,36
+A031,Ant-Man II,Male,Human,183,Marvel Comics,good,86,4,8,3,6,4,5,7,8,Half-blood,4,Gryffindor,12,12,15,12,18,17,9,63
+A034,Anti-Venom,Male,Symbiote,229,Marvel Comics,NA,358,7,3,3,2,7,9,8,10,Half-blood,4,Gryffindor,16,11,17,11,11,17,15,135
+A042,Ardina,Female,Alien,193,Marvel Comics,good,98,6,7,4,3,4,4,7,10,Muggle-born,4,Gryffindor,13,16,10,10,10,18,11,99
+A043,Ares,Male,NA,185,Marvel Comics,good,270,8,7,4,2,3,6,9,6,Half-blood,4,Gryffindor,14,18,16,12,18,16,6,42
+A046,Arsenal,Male,Human,NA,DC Comics,good,NA,3,7,6,4,3,3,9,10,Muggle-born,4,Gryffindor,13,12,11,10,17,10,6,42
+A048,Atlas,Male,Mutant,183,Marvel Comics,good,101,3,6,3,5,8,5,6,9,Pure-blood,4,Gryffindor,15,13,12,15,15,13,14,98
+A049,Atlas,Male,God / Eternal,198,DC Comics,bad,126,2,6,2,6,3,5,7,9,Half-blood,4,Gryffindor,16,18,12,12,17,16,4,32
+A055,Atom IV,Male,NA,NA,DC Comics,good,72,3,2,9,5,9,7,7,6,Half-blood,4,Gryffindor,18,15,10,17,12,17,10,100
+A056,Aurora,Female,Mutant,180,Marvel Comics,good,63,5,8,7,6,4,7,7,9,Half-blood,4,Gryffindor,12,13,14,10,15,12,12,96
+A064,Batgirl,Female,Human,170,DC Comics,good,57,5,7,1,9,3,7,8,7,Half-blood,4,Gryffindor,8,17,10,11,14,18,15,150
+A066,Batgirl IV,Female,Human,165,DC Comics,good,52,3,7,3,2,4,7,7,7,Half-blood,4,Gryffindor,15,13,10,12,16,18,15,150
+A070,Batman,Male,Human,178,DC Comics,good,77,5,4,6,7,3,7,7,9,Half-blood,4,Gryffindor,15,11,15,12,15,10,15,135
+A076,Beast Boy,Male,Human,173,DC Comics,good,68,6,3,5,3,3,4,7,10,Pure-blood,4,Gryffindor,10,17,18,18,17,14,8,56
+A080,Beyonder,Male,God / Eternal,NA,Marvel Comics,good,NA,7,4,6,3,5,7,8,7,Half-blood,4,Gryffindor,11,10,12,11,11,13,5,40
+A084,Bill Harken,Male,Alpha,NA,SyFy,good,NA,7,4,4,7,4,4,8,9,Half-blood,4,Gryffindor,17,18,18,12,16,13,10,90
+A086,Binary,Female,NA,180,Marvel Comics,good,54,6,4,1,7,3,3,7,10,Muggle-born,4,Gryffindor,17,10,16,15,13,14,4,28
+A095,Black Adam,Male,NA,191,DC Comics,bad,113,8,3,6,2,9,9,6,8,Half-blood,4,Gryffindor,8,13,14,13,14,17,1,8
+A096,Black Bolt,Male,Inhuman,188,Marvel Comics,good,95,5,4,4,2,6,2,10,7,Muggle-born,4,Gryffindor,15,11,14,10,15,10,9,81
+A100,Black Flash,Male,God / Eternal,NA,DC Comics,neutral,NA,7,6,3,5,2,3,8,10,Half-blood,4,Gryffindor,14,12,16,17,13,14,2,12
+A101,Black Goliath,Male,NA,NA,Marvel Comics,good,NA,3,2,3,5,5,4,6,10,Muggle-born,4,Gryffindor,18,16,14,10,16,15,3,21
+A105,Black Manta,Male,Human,188,DC Comics,bad,92,6,5,7,7,4,5,9,9,Pure-blood,4,Gryffindor,13,11,12,18,12,13,8,72
+A107,Black Widow,Female,Human,170,Marvel Comics,good,59,1,8,7,1,8,6,8,10,Half-blood,4,Gryffindor,8,16,15,17,12,17,14,112
+A114,Bling!,Female,NA,168,Marvel Comics,good,68,3,1,3,4,8,8,6,10,Muggle-born,4,Gryffindor,14,17,14,13,11,17,5,45
+A115,Blink,Female,Mutant,165,Marvel Comics,good,56,6,3,5,3,7,6,9,7,Pure-blood,4,Gryffindor,12,14,15,10,13,13,9,54
+A120,Bloodaxe,Female,Human,218,Marvel Comics,bad,495,1,5,1,6,5,6,8,10,Muggle-born,4,Gryffindor,11,18,17,18,15,10,2,16
+A126,Blue Beetle III,Male,Human,NA,DC Comics,good,NA,9,3,6,3,4,8,7,8,Half-blood,4,Gryffindor,16,12,14,11,18,14,12,84
+A133,Box,Male,NA,NA,Marvel Comics,good,NA,5,6,5,5,5,3,9,6,Half-blood,4,Gryffindor,8,18,12,16,10,13,6,48
+A137,Brainiac 5,Male,NA,170,DC Comics,good,61,7,9,7,7,5,6,8,10,Muggle-born,4,Gryffindor,15,14,12,12,13,18,11,77
+A142,Bumblebee,Female,Human,170,DC Comics,good,59,9,9,3,8,4,3,8,8,Half-blood,4,Gryffindor,9,13,11,10,12,14,9,90
+A147,Cameron Hicks,Male,Alpha,NA,SyFy,good,NA,6,8,9,2,3,7,7,8,Half-blood,4,Gryffindor,15,10,16,10,11,10,5,50
+A148,Cannonball,Male,NA,183,Marvel Comics,good,81,6,8,8,7,5,9,8,10,Half-blood,4,Gryffindor,17,12,13,11,17,16,2,20
+A162,Carnage,Male,Symbiote,185,Marvel Comics,bad,86,5,2,9,5,1,4,8,9,Half-blood,4,Gryffindor,8,11,11,13,14,17,7,42
+A166,Cecilia Reyes,NA,NA,170,Marvel Comics,good,62,6,5,4,5,9,6,7,9,Pure-blood,4,Gryffindor,13,17,15,16,11,11,14,84
+A168,Cerebra,Female,Mutant,NA,Marvel Comics,good,NA,6,4,3,6,9,3,8,7,Half-blood,4,Gryffindor,17,13,13,15,16,13,15,105
+A173,Cheetah II,Female,Human,170,DC Comics,bad,55,3,7,7,3,6,3,9,9,Muggle-born,4,Gryffindor,17,18,18,11,18,17,3,24
+A177,Citizen Steel,Male,Human,183,DC Comics,good,170,3,4,4,4,5,7,9,7,Pure-blood,4,Gryffindor,15,16,15,14,11,17,10,80
+A178,Claire Bennet,Female,NA,NA,NBC - Heroes,good,NA,6,3,8,6,2,7,9,8,Half-blood,4,Gryffindor,11,11,13,17,16,16,12,96
+A179,Clea,NA,NA,NA,Marvel Comics,good,NA,7,1,8,6,3,7,10,7,Muggle-born,4,Gryffindor,8,16,13,14,10,14,7,63
+A184,Colossal Boy,Male,NA,NA,DC Comics,good,NA,7,9,7,9,5,7,10,9,Half-blood,4,Gryffindor,13,16,16,18,16,10,10,100
+A190,Crimson Dynamo,Male,NA,180,Marvel Comics,good,104,6,2,9,4,1,7,8,9,Half-blood,4,Gryffindor,15,13,18,11,17,10,1,7
+A192,Curse,Male,NA,NA,Image Comics,bad,NA,7,2,5,8,3,5,9,8,Pure-blood,4,Gryffindor,12,18,11,13,15,12,1,10
+A197,Cypher,NA,NA,175,Marvel Comics,good,68,5,2,6,7,4,3,8,7,Pure-blood,4,Gryffindor,11,15,12,17,15,10,1,9
+A198,Dagger,Female,NA,165,Marvel Comics,good,52,4,1,4,8,7,9,8,8,Half-blood,4,Gryffindor,16,13,16,12,12,12,7,56
+A202,Darkhawk,Male,Human,185,Marvel Comics,good,81,4,8,4,5,7,5,7,7,Half-blood,4,Gryffindor,12,15,11,18,18,16,13,104
+A205,Darkside,NA,NA,NA,,bad,NA,3,2,4,6,8,7,7,8,Half-blood,4,Gryffindor,14,13,11,13,18,12,14,112
+A211,Dazzler,Female,Mutant,173,Marvel Comics,good,52,8,7,5,2,6,3,8,8,Muggle-born,4,Gryffindor,8,13,17,13,11,18,13,104
+A214,Deadshot,Male,Human,185,DC Comics,bad,91,3,2,6,8,6,6,9,7,Muggle-born,4,Gryffindor,14,11,11,12,16,15,7,42
+A215,Deathlok,Male,Cyborg,193,Marvel Comics,good,178,4,7,2,7,6,9,7,6,Muggle-born,4,Gryffindor,12,11,13,14,11,18,13,104
+A217,Demogoblin,Male,Demon,185,Marvel Comics,bad,95,7,1,2,8,7,3,8,9,Muggle-born,4,Gryffindor,12,17,16,14,15,16,7,63
+A218,Destroyer,Male,NA,188,Marvel Comics,bad,383,4,7,6,7,7,6,6,9,Muggle-born,4,Gryffindor,10,18,15,12,16,11,14,84
+A223,Doctor Doom II,Male,NA,201,Marvel Comics,bad,132,2,2,2,2,1,2,10,9,Half-blood,4,Gryffindor,18,12,13,16,18,14,11,99
+A231,Doppelganger,Male,NA,196,Marvel Comics,bad,104,6,7,7,5,4,6,9,7,Muggle-born,4,Gryffindor,13,12,12,16,16,11,5,35
+A233,Dr Manhattan,Male,Human / Cosmic,NA,DC Comics,good,NA,6,6,6,5,6,5,7,7,Pure-blood,4,Gryffindor,17,18,16,18,15,12,12,84
+A234,Drax the Destroyer,Male,Human / Altered,193,Marvel Comics,good,306,4,8,5,3,5,5,6,8,Half-blood,4,Gryffindor,9,11,15,18,12,10,9,90
+A236,Elastigirl,Female,Human,168,Dark Horse Comics,good,56,6,9,5,4,2,6,6,9,Pure-blood,4,Gryffindor,15,13,17,10,10,12,14,98
+A237,Electro,Male,Human,180,Marvel Comics,bad,74,8,4,7,2,7,3,8,9,Half-blood,4,Gryffindor,16,10,15,15,10,16,2,20
+A240,Elongated Man,Male,NA,185,DC Comics,good,80,7,4,3,3,4,5,8,7,Half-blood,4,Gryffindor,13,17,10,14,12,10,6,42
+A241,Emma Frost,Female,NA,178,Marvel Comics,good,65,3,4,4,3,8,3,7,7,Half-blood,4,Gryffindor,14,16,12,15,17,10,9,90
+A242,Enchantress,Female,Human,168,DC Comics,good,57,8,5,2,2,5,3,8,8,Muggle-born,4,Gryffindor,13,11,13,17,15,17,11,110
+A244,ERG-1,Male,NA,NA,DC Comics,good,NA,2,3,7,3,8,7,7,10,Muggle-born,4,Gryffindor,15,13,12,10,15,13,7,56
+A246,Etrigan,Male,Demon,193,DC Comics,neutral,203,2,6,7,4,4,3,7,8,Pure-blood,4,Gryffindor,10,17,13,15,11,11,10,60
+A252,Fallen One II,Male,NA,NA,Marvel Comics,bad,NA,7,6,7,4,8,6,8,7,Half-blood,4,Gryffindor,10,17,11,15,17,11,9,54
+A255,Fighting Spirit,Female,NA,NA,DC Comics,good,NA,4,4,8,5,8,7,8,8,Half-blood,4,Gryffindor,15,13,14,13,17,18,13,117
+A257,Firebird,Female,NA,165,Marvel Comics,good,56,9,9,2,5,5,7,9,10,Half-blood,4,Gryffindor,10,11,17,10,16,14,6,60
+A260,Firestorm,Male,NA,NA,DC Comics,good,NA,8,5,5,4,7,6,9,7,Half-blood,4,Gryffindor,14,15,10,11,10,16,2,20
+A271,Frenzy,Female,NA,211,Marvel Comics,bad,104,7,5,5,5,6,2,8,9,Muggle-born,4,Gryffindor,16,17,15,18,14,10,15,120
+A273,Galactus,Male,Cosmic Entity,876,Marvel Comics,neutral,16,2,4,8,2,3,7,8,7,Half-blood,4,Gryffindor,16,17,17,13,16,14,5,30
+A279,Genesis,Male,NA,185,Marvel Comics,good,86,2,7,3,8,9,5,9,6,Pure-blood,4,Gryffindor,12,14,15,15,12,12,13,104
+A281,Ghost Rider II,NA,NA,NA,Marvel Comics,good,NA,5,2,6,5,4,6,7,7,Muggle-born,4,Gryffindor,16,16,10,11,18,15,13,104
+A283,Giant-Man II,Male,NA,NA,Marvel Comics,good,NA,3,8,4,3,7,8,6,10,Pure-blood,4,Gryffindor,13,15,11,11,16,11,10,60
+A284,Giganta,Female,NA,62.5,DC Comics,bad,630,2,8,8,5,5,1,8,8,Muggle-born,4,Gryffindor,15,16,17,16,18,16,4,28
+A286,Goblin Queen,Female,NA,168,Marvel Comics,bad,50,3,8,4,8,3,2,8,8,Muggle-born,4,Gryffindor,14,17,15,15,12,10,8,48
+A293,Goliath IV,Male,NA,183,Marvel Comics,good,90,8,8,1,3,5,6,6,9,Half-blood,4,Gryffindor,16,13,15,13,15,17,3,21
+A305,Guy Gardner,Male,Human-Vuldarian,188,DC Comics,good,95,8,8,6,2,7,8,7,7,Muggle-born,4,Gryffindor,8,11,10,10,12,18,5,40
+A306,Hal Jordan,Male,Human,188,DC Comics,good,90,4,7,7,9,1,1,8,10,Muggle-born,4,Gryffindor,8,12,16,14,16,14,4,40
+A309,Harley Quinn,Female,Human,170,DC Comics,bad,63,3,5,1,4,5,3,9,9,Pure-blood,4,Gryffindor,11,10,16,14,12,17,11,88
+A310,Harry Potter,Male,Human,NA,J. K. Rowling,good,NA,8,5,6,7,7,3,7,8,Muggle-born,4,Gryffindor,8,10,15,14,12,18,5,35
+A317,Hawkwoman,Female,NA,175,DC Comics,good,54,5,3,4,3,4,6,6,9,Half-blood,4,Gryffindor,18,17,12,16,16,10,6,48
+A320,Heat Wave,Male,Human,180,DC Comics,bad,81,6,1,5,5,2,4,8,7,Pure-blood,4,Gryffindor,18,17,10,16,15,11,5,50
+A330,Hope Summers,Female,NA,168,Marvel Comics,good,48,8,4,7,8,7,8,9,8,Half-blood,4,Gryffindor,10,16,12,17,16,15,4,24
+A333,Human Torch,Male,Human / Radiation,178,Marvel Comics,good,77,3,8,4,6,5,6,6,7,Muggle-born,4,Gryffindor,15,14,13,17,14,10,15,90
+A337,Hydro-Man,Male,NA,188,Marvel Comics,bad,119,6,8,8,1,2,5,10,9,Muggle-born,4,Gryffindor,9,14,17,17,15,12,6,60
+A346,Iron Man,Male,Human,198,Marvel Comics,good,191,8,4,5,9,4,5,10,9,Pure-blood,4,Gryffindor,16,15,12,17,12,10,3,18
+A348,Isis,Female,NA,NA,DC Comics,good,NA,3,9,5,7,5,3,9,7,Half-blood,4,Gryffindor,8,18,12,18,12,12,15,150
+A349,Jack Bauer,Male,NA,NA,,good,NA,5,9,5,4,2,5,7,10,Muggle-born,4,Gryffindor,8,13,18,18,18,15,15,120
+A363,Jigsaw,Male,NA,188,Marvel Comics,bad,113,3,4,3,6,5,6,10,7,Pure-blood,4,Gryffindor,17,11,14,17,14,13,1,10
+A368,John Stewart,Male,Human,185,DC Comics,good,90,8,4,9,8,5,3,8,8,Half-blood,4,Gryffindor,8,11,18,11,14,17,4,28
+A370,Joker,Male,Human,196,DC Comics,bad,86,4,3,6,5,6,3,7,10,Muggle-born,4,Gryffindor,12,13,14,13,17,17,10,90
+A372,Jubilee,Female,Mutant,165,Marvel Comics,good,52,7,5,3,5,6,4,8,7,Muggle-born,4,Gryffindor,14,18,15,10,11,15,7,42
+A382,Katniss Everdeen,Female,Human,NA,,good,NA,7,6,5,3,6,8,10,10,Half-blood,4,Gryffindor,16,15,16,10,11,12,8,80
+A389,Kilowog,Male,Bolovaxian,234,DC Comics,good,324,7,9,2,3,6,1,9,7,Muggle-born,4,Gryffindor,12,10,18,16,10,17,4,40
+A391,King Shark,Male,Animal,NA,DC Comics,bad,NA,3,8,9,6,9,7,6,8,Half-blood,4,Gryffindor,9,18,12,11,12,18,14,126
+A402,Leader,Male,NA,178,Marvel Comics,bad,63,9,2,9,8,5,5,9,9,Muggle-born,4,Gryffindor,10,10,11,14,14,16,4,40
+A408,Lightning Lad,Male,NA,155,DC Comics,good,65,4,1,5,6,5,6,9,10,Muggle-born,4,Gryffindor,15,11,17,14,14,18,13,130
+A413,Lizard,Male,Human,203,Marvel Comics,bad,230,5,6,2,8,6,8,9,8,Half-blood,4,Gryffindor,9,18,16,10,17,13,13,117
+A414,Lobo,Male,Czarnian,229,DC Comics,neutral,288,2,2,8,1,4,5,9,8,Half-blood,4,Gryffindor,12,11,16,12,14,17,15,105
+A421,Lyja,Female,NA,NA,Marvel Comics,good,NA,7,3,6,9,3,3,8,8,Half-blood,4,Gryffindor,12,12,12,15,17,17,6,60
+A427,Man of Miracles,NA,God / Eternal,NA,Image Comics,NA,NA,5,5,5,9,9,4,9,8,Half-blood,4,Gryffindor,17,14,16,16,15,17,13,117
+A429,Man-Thing,Male,NA,213,Marvel Comics,good,225,7,4,1,6,9,3,8,7,Muggle-born,4,Gryffindor,9,16,13,14,11,18,14,140
+A434,Marvel Girl,Female,NA,170,Marvel Comics,good,56,2,2,5,4,3,6,8,10,Muggle-born,4,Gryffindor,10,14,13,17,17,18,10,90
+A435,Master Brood,Male,NA,183,Team Epic TV,good,81,6,5,7,2,3,4,7,8,Muggle-born,4,Gryffindor,14,12,12,13,18,11,9,54
+A441,Maya Herrera,Female,NA,NA,NBC - Heroes,good,NA,5,5,3,5,3,3,8,8,Half-blood,4,Gryffindor,12,11,18,17,15,15,6,60
+A443,Meltdown,Female,NA,165,Marvel Comics,good,54,1,9,7,6,6,3,9,7,Pure-blood,4,Gryffindor,9,10,11,13,13,15,14,126
+A448,Meteorite,Female,NA,NA,Marvel Comics,good,NA,3,5,7,3,7,8,8,7,Muggle-born,4,Gryffindor,9,17,18,10,18,12,5,35
+A450,Micah Sanders,Male,NA,NA,NBC - Heroes,good,NA,7,1,8,5,8,6,8,8,Pure-blood,4,Gryffindor,10,11,12,11,18,14,9,63
+A451,Michelangelo,Male,Mutant,NA,IDW Publishing,good,NA,9,6,1,8,4,3,10,7,Muggle-born,4,Gryffindor,15,15,12,17,13,18,15,120
+A452,Micro Lad,Male,NA,183,DC Comics,good,77,6,5,7,5,3,1,10,6,Half-blood,4,Gryffindor,17,18,18,14,10,10,2,20
+A455,Misfit,Female,NA,NA,DC Comics,good,NA,6,1,8,2,3,1,8,7,Half-blood,4,Gryffindor,18,12,14,12,16,16,3,21
+A460,Mister Mxyzptlk,Male,God / Eternal,NA,DC Comics,bad,NA,2,5,4,8,5,7,6,8,Half-blood,4,Gryffindor,16,13,18,17,18,12,7,56
+A461,Mister Sinister,Male,Human / Altered,196,Marvel Comics,bad,128,6,8,4,4,9,4,9,7,Muggle-born,4,Gryffindor,17,18,18,13,15,16,14,98
+A463,Mockingbird,Female,Human,175,Marvel Comics,good,61,3,3,5,2,3,7,7,7,Muggle-born,4,Gryffindor,9,14,16,10,17,17,4,32
+A464,MODOK,Male,Cyborg,366,Marvel Comics,bad,338,7,1,7,5,6,3,7,7,Muggle-born,4,Gryffindor,8,17,11,14,15,18,3,18
+A470,Monica Dawson,Female,NA,NA,NBC - Heroes,good,NA,6,5,9,6,7,4,8,8,Pure-blood,4,Gryffindor,11,11,13,11,17,17,6,54
+A476,Mr Immortal,Male,Mutant,188,Marvel Comics,good,70,3,2,8,5,3,8,7,8,Half-blood,4,Gryffindor,8,12,12,10,15,17,4,24
+A478,Ms Marvel II,Female,NA,173,Marvel Comics,good,61,8,3,5,7,1,6,7,8,Half-blood,4,Gryffindor,13,12,17,11,13,14,13,130
+A485,Namorita,Female,NA,168,Marvel Comics,good,101,4,3,5,8,6,5,7,10,Pure-blood,4,Gryffindor,18,10,11,14,16,11,9,90
+A488,Nebula,Female,Luphomoid,185,Marvel Comics,bad,83,1,5,4,2,5,3,6,9,Half-blood,4,Gryffindor,15,15,17,12,18,14,2,18
+A490,Nick Fury,Male,Human,185,Marvel Comics,good,99,9,5,6,8,5,8,9,9,Half-blood,4,Gryffindor,13,15,13,14,12,14,13,117
+A491,Nightcrawler,Male,NA,175,Marvel Comics,good,88,4,8,7,7,4,3,6,7,Pure-blood,4,Gryffindor,18,16,15,10,17,16,13,117
+A492,Nightwing,Male,Human,178,DC Comics,good,79,1,7,1,4,6,8,8,8,Pure-blood,4,Gryffindor,11,18,15,16,10,11,11,66
+A498,Nova,Female,Human / Cosmic,163,Marvel Comics,good,59,9,3,3,8,3,5,10,7,Half-blood,4,Gryffindor,17,15,11,10,16,14,6,54
+A499,Odin,Male,God / Eternal,206,Marvel Comics,good,293,3,9,3,7,7,6,8,6,Pure-blood,4,Gryffindor,13,18,12,13,11,18,11,110
+A501,Omega Red,Male,NA,211,Marvel Comics,bad,191,8,6,3,7,3,8,9,8,Half-blood,4,Gryffindor,10,13,14,13,11,11,1,9
+A503,One Punch Man,Male,Human,175,Shueisha,good,69,6,3,4,7,9,3,9,7,Muggle-born,4,Gryffindor,9,16,17,14,14,16,3,21
+A507,Osiris,Male,NA,NA,DC Comics,good,NA,7,6,5,4,4,5,8,7,Half-blood,4,Gryffindor,8,12,10,17,10,12,6,42
+A516,Peter Petrelli,Male,NA,NA,NBC - Heroes,good,NA,7,8,9,4,7,2,10,8,Muggle-born,4,Gryffindor,14,13,17,11,13,18,11,77
+A520,Plantman,Male,Mutant,183,Marvel Comics,bad,87,4,3,6,6,6,3,9,9,Muggle-born,4,Gryffindor,9,17,15,13,16,11,12,108
+A523,Plastique,Female,NA,168,DC Comics,bad,55,7,3,6,4,3,9,10,10,Muggle-born,4,Gryffindor,16,16,16,17,14,14,8,56
+A527,Power Man,Male,Mutant,NA,Marvel Comics,good,NA,6,3,2,2,8,1,7,10,Half-blood,4,Gryffindor,17,10,11,15,18,10,14,84
+A535,Pyro,Male,NA,178,Marvel Comics,bad,68,9,8,5,5,6,3,9,8,Pure-blood,4,Gryffindor,12,11,12,12,13,18,8,72
+A538,Question,Male,Human,188,DC Comics,good,83,7,5,9,6,8,2,9,6,Muggle-born,4,Gryffindor,17,13,12,11,18,14,7,49
+A545,Raven,Female,Human,165,DC Comics,neutral,50,5,2,7,6,7,4,7,6,Muggle-born,4,Gryffindor,11,14,14,13,15,18,7,49
+A560,Rick Flag,Male,NA,185,DC Comics,bad,85,1,6,6,4,5,3,9,6,Muggle-born,4,Gryffindor,11,17,16,13,12,10,11,110
+A569,Rocket Raccoon,Male,Animal,122,Marvel Comics,good,25,1,4,1,5,7,1,7,9,Muggle-born,4,Gryffindor,8,13,14,12,16,13,5,35
+A570,Rogue,Female,NA,173,Marvel Comics,good,54,4,6,3,7,7,4,9,9,Muggle-born,4,Gryffindor,11,12,10,18,10,16,13,130
+A572,Rorschach,Male,Human,168,DC Comics,good,63,8,5,4,2,1,3,6,6,Half-blood,4,Gryffindor,14,18,15,13,13,13,9,90
+A577,Sauron,Male,Maiar,279,J. R. R. Tolkien,bad,NA,6,8,5,5,8,2,9,8,Muggle-born,4,Gryffindor,10,13,16,14,11,13,10,80
+A580,Scarlet Spider,Male,Human,178,Marvel Comics,good,74,1,3,6,6,2,4,9,8,Half-blood,4,Gryffindor,14,16,13,13,12,14,15,105
+A582,Scarlet Witch,Female,Mutant,170,Marvel Comics,bad,59,6,4,4,3,5,7,8,7,Half-blood,4,Gryffindor,15,11,10,18,13,16,2,16
+A584,Scorpion,Male,Human,211,Marvel Comics,bad,310,7,4,4,4,9,1,7,7,Muggle-born,4,Gryffindor,15,13,18,14,11,16,7,63
+A595,Shriek,Female,NA,173,Marvel Comics,good,52,7,9,6,8,5,2,9,8,Half-blood,4,Gryffindor,9,10,17,17,11,17,2,20
+A598,Silk,Female,Human,NA,Marvel Comics,good,NA,5,3,2,4,3,3,8,9,Muggle-born,4,Gryffindor,14,11,13,13,12,18,7,70
+A601,Silver Surfer,Male,Alien,193,Marvel Comics,good,101,8,6,4,4,4,4,8,7,Half-blood,4,Gryffindor,17,14,17,18,12,16,5,50
+A606,Siren II,Female,NA,NA,DC Comics,bad,NA,5,4,7,9,3,3,10,9,Muggle-born,4,Gryffindor,11,10,15,11,10,10,11,99
+A610,Snowbird,Female,NA,178,Marvel Comics,good,49,2,8,4,9,6,7,7,7,Muggle-born,4,Gryffindor,18,14,16,10,11,11,10,100
+A611,Sobek,Male,NA,NA,DC Comics,good,NA,1,7,7,7,6,6,8,9,Muggle-born,4,Gryffindor,16,15,10,17,11,13,7,70
+A613,Songbird,Female,NA,165,Marvel Comics,good,65,3,8,8,8,3,3,9,10,Half-blood,4,Gryffindor,18,12,12,16,12,17,1,8
+A616,Spectre,Male,God / Eternal,NA,DC Comics,good,NA,1,6,5,5,9,2,7,9,Muggle-born,4,Gryffindor,8,14,18,13,17,10,1,10
+A617,Speedball,Male,NA,NA,Marvel Comics,good,NA,8,4,3,8,7,7,7,6,Muggle-born,4,Gryffindor,10,15,13,18,16,18,8,56
+A621,Spider-Girl,Female,Human,170,Marvel Comics,good,54,2,8,5,6,4,9,7,6,Muggle-born,4,Gryffindor,10,10,11,13,11,13,2,20
+A623,Spider-Man,Male,Human,178,Marvel Comics,good,74,3,6,3,4,5,1,10,7,Pure-blood,4,Gryffindor,10,17,16,14,12,17,10,60
+A624,Spider-Man,NA,Human,178,Marvel Comics,good,77,3,4,7,3,2,6,6,10,Pure-blood,4,Gryffindor,17,10,16,17,14,10,14,112
+A625,Spider-Man,Male,Human,157,Marvel Comics,good,56,3,7,4,6,6,6,9,7,Muggle-born,4,Gryffindor,14,11,11,14,13,13,9,81
+A627,Spider-Woman II,Female,NA,NA,Marvel Comics,good,NA,6,8,4,5,9,3,9,9,Muggle-born,4,Gryffindor,15,12,13,13,10,12,11,77
+A629,Spider-Woman IV,Female,NA,178,Marvel Comics,bad,58,5,8,9,6,5,6,7,7,Pure-blood,4,Gryffindor,12,18,16,12,14,11,10,90
+A630,Spock,Male,Human-Vulcan,185,Star Trek,good,81,3,4,3,6,3,8,9,9,Muggle-born,4,Gryffindor,17,14,18,16,14,14,12,108
+A631,Spyke,Male,Mutant,183,Marvel Comics,good,83,7,7,3,4,8,8,9,9,Muggle-born,4,Gryffindor,13,17,12,16,14,10,8,72
+A634,Stardust,Male,NA,NA,Marvel Comics,good,NA,5,3,6,5,6,4,7,7,Half-blood,4,Gryffindor,11,12,14,10,14,18,8,72
+A636,Stargirl,Female,Human,165,DC Comics,good,62,4,8,3,8,7,1,8,10,Half-blood,4,Gryffindor,16,14,14,15,15,14,8,48
+A649,Swarm,Male,Mutant,196,Marvel Comics,bad,47,5,8,7,7,2,6,7,9,Muggle-born,4,Gryffindor,13,11,15,13,12,16,9,63
+A650,Sylar,Male,NA,NA,NBC - Heroes,bad,NA,7,2,8,2,8,3,8,9,Muggle-born,4,Gryffindor,11,11,10,15,17,10,8,48
+A651,Synch,Male,NA,180,Marvel Comics,good,74,6,5,2,4,6,4,9,9,Muggle-born,4,Gryffindor,14,10,11,13,17,16,5,50
+A656,Taskmaster,Male,Human,188,Marvel Comics,bad,99,7,6,5,5,6,4,6,8,Muggle-born,4,Gryffindor,17,11,13,16,17,18,12,84
+A665,Thunderbird II,Male,NA,NA,Marvel Comics,good,NA,8,4,3,1,3,5,8,8,Muggle-born,4,Gryffindor,15,12,14,16,14,10,8,72
+A673,Toad,Male,Mutant,175,Marvel Comics,neutral,76,8,3,5,2,2,7,10,9,Muggle-born,4,Gryffindor,16,14,17,12,10,16,6,54
+A674,Toxin,Male,Symbiote,188,Marvel Comics,good,97,5,5,9,6,4,4,9,7,Half-blood,4,Gryffindor,11,14,16,12,11,17,12,96
+A677,Trickster,Male,Human,183,DC Comics,NA,81,7,4,3,7,3,3,9,7,Half-blood,4,Gryffindor,18,16,17,16,17,16,1,7
+A680,Triton,Male,Inhuman,188,Marvel Comics,good,86,3,7,4,5,6,5,8,7,Half-blood,4,Gryffindor,17,15,14,12,15,11,15,150
+A687,Valkyrie,Female,NA,191,Marvel Comics,good,214,6,6,4,7,7,5,8,6,Pure-blood,4,Gryffindor,13,10,17,11,12,12,9,72
+A688,Vanisher,Male,NA,165,Marvel Comics,bad,79,2,2,7,6,8,7,9,9,Half-blood,4,Gryffindor,18,15,12,13,14,18,13,91
+A690,Venom,Male,Symbiote,191,Marvel Comics,bad,117,5,9,3,4,9,4,8,6,Muggle-born,4,Gryffindor,11,13,17,11,16,10,8,80
+A702,Vixen,Female,Human,175,DC Comics,good,63,6,3,6,6,3,3,8,8,Muggle-born,4,Gryffindor,11,13,17,17,10,10,6,42
+A703,Vulcan,Male,NA,NA,Marvel Comics,good,NA,2,7,5,1,3,4,9,8,Half-blood,4,Gryffindor,14,11,14,17,11,17,13,117
+A704,Vulture,Male,Human,180,Marvel Comics,bad,79,8,3,1,6,1,5,7,6,Half-blood,4,Gryffindor,17,15,17,11,10,14,5,40
+A707,Warbird,Female,NA,180,Marvel Comics,good,54,7,4,5,3,8,6,8,10,Half-blood,4,Gryffindor,8,11,10,17,18,16,9,72
+A708,Warlock,Male,NA,188,Marvel Comics,good,108,7,2,4,5,4,2,8,9,Half-blood,4,Gryffindor,16,16,12,11,17,12,13,130
+A717,Winter Soldier,Male,Human,175,Marvel Comics,good,117,2,3,3,5,7,8,8,8,Muggle-born,4,Gryffindor,8,14,17,13,14,15,8,64
+A722,Wonder Man,Male,NA,188,Marvel Comics,good,171,3,3,7,7,4,4,7,8,Half-blood,4,Gryffindor,17,12,11,11,14,10,8,56
+A723,Wonder Woman,Female,Amazon,183,DC Comics,good,74,6,6,2,8,7,3,8,6,Muggle-born,4,Gryffindor,18,10,14,17,10,10,7,49
+A726,X-23,Female,Mutant / Clone,155,Marvel Comics,good,50,4,7,2,4,6,7,9,9,Muggle-born,4,Gryffindor,11,11,10,12,15,16,6,36
+A727,X-Man,Male,NA,175,Marvel Comics,good,61,3,7,7,3,8,4,9,6,Half-blood,4,Gryffindor,16,12,18,15,15,16,9,81
