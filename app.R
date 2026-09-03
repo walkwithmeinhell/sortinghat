@@ -384,8 +384,7 @@ server <- function(input, output, session) {
         new_padawan = sorting_result()$new_padawan
       ),
       error = function(e) {
-        paste("The Sorting Hat's voice fades into the darkness.",
-              "The AI explanation could not be retrieved.")
+        "The Sorting Hat's voice fades into the darkness. The AI explanation could not be retrieved."
       }
     )
 
@@ -397,7 +396,7 @@ server <- function(input, output, session) {
       return(div(class = "ai-box",
                  "What sayest thou?"))
     }
-set
+
     div(class = "ai-box", ai_text())
   })
 }
