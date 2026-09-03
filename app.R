@@ -384,6 +384,7 @@ server <- function(input, output, session) {
         new_padawan = sorting_result()$new_padawan
       ),
       error = function(e) {
+        message("Gemini API error: ", conditionMessage(e))
         "The Sorting Hat's voice fades into the darkness. The AI explanation could not be retrieved."
       }
     )
