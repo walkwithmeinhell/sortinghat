@@ -266,7 +266,7 @@ get_sorting_hat_explanation <- function(predicted_house,
   )
 
   response <- request(
-    "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent"
+    "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent"
   )
 
   response <- req_headers(response,
