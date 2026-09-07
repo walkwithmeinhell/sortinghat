@@ -184,7 +184,7 @@ ui <- fluidPage(
   div(class = "title-panel",
       h1("The Sorting Hat"),
       p(class = "hat-line", "Hmm, difficult... VERY difficult..."),
-      p(class = "subtitle", "Enter your magical traits and let kNN decide your Hogwarts House.")),
+      p(class = "subtitle", "Enter your magical traits and let me decide your Fate")),
 
   fluidRow(
     column(6,
@@ -250,6 +250,7 @@ get_sorting_hat_explanation <- function(predicted_house,
     paste("The House probabilities are:", probability_text, "."),
     paste("The student's traits are:", trait_text, "."),
     "Give a short, dramatic and slightly ominous Sorting Hat explanation in 2 or 3 sentences.",
+    "Use British English spelling and wording throughout.",
     "Use the supplied traits and probabilities as evidence.",
     "Do not invent new traits or facts.",
     "End by naming the predicted House clearly."
